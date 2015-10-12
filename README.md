@@ -18,13 +18,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * Repo with 1000+ Stars: :fire::fire::fire::fire:
 * Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
 
-*Non-fiery repos can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/saws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).*
+*Non-fiery repos can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).*
 
 ## Contributing
 
 Contributions are welcome!
 
-Check out the [Contributing Guidelines](https://github.com/donnemartin/saws/blob/master/CONTRIBUTING.md).
+Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md).
 
 ## Index
 
@@ -347,7 +347,7 @@ Related Repos:
 
 ## Open Source Repos
 
-*AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/saws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) for more details.*
+*AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) for more details.*
 
 <br/>
 <p align="center">
