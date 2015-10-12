@@ -1166,7 +1166,7 @@ From the Community:
 
 ## Credits
 
-Check out the [Credits page](https://github.com/donnemartin/saws/blob/master/CONTRIBUTING.md).
+Check out the [Credits page](https://github.com/donnemartin/awesome-aws/blob/master/CREDITS.md).
 
 ## Other Awesome Lists
 
