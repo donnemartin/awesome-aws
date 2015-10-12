@@ -10,7 +10,7 @@ A curated list of awesome AWS libraries, open source repos, guides, blogs, and o
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
-## The Fiery Meter of AWSomeness
+## The Fiery Meter of AWSome
 
 * Repo with 0100+ Stars: :fire:
 * Repo with 0200+ Stars: :fire::fire:
@@ -18,7 +18,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 * Repo with 1000+ Stars: :fire::fire::fire::fire:
 * Repo with 2000+ Stars: :fire::fire::fire::fire::fire:
 
-*Non-fiery repos can still be awesome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).*
+*Repos not on the fiery list can still be AWSome, see [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness).*
 
 ## Contributing
 
