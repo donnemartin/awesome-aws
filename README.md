@@ -712,6 +712,10 @@ AWS Repos:
 
 * [aws-flow-ruby :fire:](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
 
+Community Repos:
+
+* [wolf](https://github.com/swift-nav/wolf) - Simple containerized workflows.
+
 ### SimpleDB
 
 Community Repos:
