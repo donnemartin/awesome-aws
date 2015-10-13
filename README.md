@@ -24,6 +24,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 Contributions are welcome!
 
+This list is just getting started, please contribute to make it super awesome.
+
 Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md).
 
 ## Index
@@ -363,6 +365,10 @@ AWS Repos:
 * [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
 * [aws-apigateway-swagger-importer :fire:](https://github.com/awslabs/aws-apigateway-swagger-importer) - Tools to work with Swagger.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### AppStream
 
 AWS Repos:
@@ -370,6 +376,10 @@ AWS Repos:
 * [amazon-appstream-net](https://github.com/awslabs/amazon-appstream-net) - Bindings to the native AppStream API.
 * [amazon-appstream-sample-entitlement-service](https://github.com/awslabs/amazon-appstream-sample-entitlement-service) - Session management, cognito integration, and web UI.
 * [aws-appstream-sdk-java](https://github.com/awslabs/aws-appstream-sdk-java) - SDK for Java.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### CLI
 
@@ -405,6 +415,10 @@ AWS Repos:
 
 * [cloudsearchable](https://github.com/awslabs/cloudsearchable) - An ActiveRecord-style ORM query interface.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### CloudTrail
 
 AWS Repos:
@@ -437,6 +451,10 @@ AWS Repos:
 * [aws-codedeploy-plugin](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
 * [aws-codedeploy-samples :fire:](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Code Pipeline
 
 AWS Repos:
@@ -447,6 +465,10 @@ AWS Repos:
 * [aws-codepipeline-s3-aws-codedeploy_linux](https://github.com/awslabs/aws-codepipeline-s3-aws-codedeploy_linux) - Simple pipeline for Linux.
 * [AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-Jenkins-AWSCodeDeploy_Windows) - Four-stage pipeline for Windows.
 * [AWSCodePipeline-S3-AWSCodeDeploy_Windows](https://github.com/awslabs/AWSCodePipeline-S3-AWSCodeDeploy_Windows) - Simple pipeline for Windows.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Cognito
 
@@ -460,11 +482,19 @@ AWS Repos:
 * [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) - Consuming Streams sample.
 * [cognito-sample-nodejs](https://github.com/awslabs/cognito-sample-nodejs) - Sample App for Node.js.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Data Pipeline
 
 AWS Repos:
 
 * [data-pipeline-samples](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Device Farm
 
@@ -475,6 +505,10 @@ AWS Repos:
 * [aws-device-farm-gradle-plugin](https://github.com/awslabs/aws-device-farm-gradle-plugin) - Gradle plugin.
 * [aws-device-farm-jenkins-plugin](https://github.com/awslabs/aws-device-farm-jenkins-plugin) - Jenkins plugin.
 * [aws-device-farm-sample-app-for-android](https://github.com/awslabs/aws-device-farm-sample-app-for-android) - Sample Android app.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### DynamoDB
 
@@ -553,11 +587,19 @@ AWS Repos:
 * [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
 * [service-discovery-ecs-consul](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Elastic File System
 
 AWS Repos:
 
 * [amazon-ecs-amazon-efs](https://github.com/awslabs/amazon-ecs-amazon-efs) - Persist data from ECS.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Elastic MapReduce
 
@@ -565,6 +607,10 @@ AWS Repos:
 
 * [emr-bootstrap-actions :fire::fire:](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
 * [emr-sample-apps](https://github.com/awslabs/emr-sample-apps) - Sampe apps.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Elastic Search
 
@@ -585,6 +631,10 @@ AWS Repos:
 * [aws-elasticache-cluster-client-memcached-for-java](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-java) - Client for Java.
 * [aws-elasticache-cluster-client-memcached-for-php](https://github.com/awslabs/aws-elasticache-cluster-client-memcached-for-php) - Enhanced PHP library connecting to ElastiCache.
 * [elasticache-cluster-config-net](https://github.com/awslabs/elasticache-cluster-config-net) - Config object for Enyim's MemcachedClient to enable auto discovery.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Glacier
 
@@ -614,6 +664,10 @@ AWS Repos:
 * [kinesis-storm-spout](https://github.com/awslabs/kinesis-storm-spout) - Spout for Storm.
 * [mqtt-kinesis-bridge](https://github.com/awslabs/mqtt-kinesis-bridge) - Simple MQTT bridge in Python.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Lambda
 
 AWS Repos:
@@ -642,11 +696,19 @@ AWS Repos:
 
 * [machine-learning-samples :fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Mobile Analytics
 
 AWS Repos:
 
 * [aws-sdk-mobile-analytics-js](https://github.com/aws/aws-sdk-mobile-analytics-js) - JavaScript SDK.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### OpsWorks
 
@@ -667,6 +729,10 @@ AWS Repos:
 * [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
 * [todo-sample-app-cookbooks](https://github.com/awslabs/todo-sample-app-cookbooks) - Custom cookbooks associated with the todo-sample-app.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Redshift
 
 AWS Repos:
@@ -674,11 +740,19 @@ AWS Repos:
 * [aws-lambda-redshift-loader :fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
 * [amazon-redshift-utils :fire:](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Route 53
 
 AWS Repos:
 
 * [route53-infima](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### S3
 
@@ -712,6 +786,10 @@ AWS Repos:
 
 * [aws-flow-ruby :fire:](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
 
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### SimpleDB
 
 Community Repos:
@@ -723,6 +801,10 @@ Community Repos:
 AWS Repos:
 
 * [aws-php-sns-message-validator](https://github.com/aws/aws-php-sns-message-validator) - Message validation for PHP.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### SQS
 
@@ -758,6 +840,10 @@ AWS Repos:
 * [aws-tvm-anonymous](https://github.com/awslabs/aws-tvm-anonymous) - Token Vending Machine for Anonymous Registration.
 * [aws-tvm-identity](https://github.com/awslabs/aws-tvm-identity) - Token Vending Machine for Identity Registration.
 * [s2n :fire::fire::fire::fire::fire:](https://github.com/awslabs/s2n) - An implementation of the TLS/SSL protocols.
+
+Community Repos:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 Community Repos:
 
@@ -843,6 +929,8 @@ Community Repos:
 
 ### Getting Started Guides
 
+AWS Guides:
+
 * [Getting Started with AWS](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-intro.html)
 * [Getting Started Tutorials](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html)
     * [Run a Virtual Server](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2614)
@@ -854,7 +942,13 @@ Community Repos:
     * [Run a Database](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e2980)
     * [Analyze Your Data](http://docs.aws.amazon.com/gettingstarted/latest/awsgsg-intro/gsg-aws-tutorials.html#d0e3065)
 
+Community Guides:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### General Guides
+
+AWS Guides:
 
 * [Analyzing Big Data](http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-overview.html)
     * [Sentiment Analysis](http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-sentiment-tutorial.html)
@@ -865,6 +959,10 @@ Community Repos:
 * [Hosting a .NET Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
 * [Hosting a Static Website](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
 * [Quick Start Deployment Guides](https://aws.amazon.com/documentation/quickstart/)
+
+Community Guides:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Whitepapers
 
@@ -941,7 +1039,7 @@ Community Repos:
 
 ### Blogs
 
-From AWS:
+AWS Blogs:
 
 * [Official Blog](https://aws.amazon.com/blogs/aws/)
     * [Brasil](http://aws.typepad.com/brasil/)
@@ -965,26 +1063,41 @@ From AWS:
 * [SAP](https://aws.amazon.com/blogs/awsforsap/)
 * [Startup collection](https://medium.com/aws-activate-startup-blog)
 
-From the Community:
+Community Blogs:
 
 * [All Things Distributed](http://www.allthingsdistributed.com/) - Werner Vogels, AWS CTO.
 * [Things I Like...](http://jeff-barr.com/) - Jeff Barr, AWS Chief Evangelist.
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Twitter Influencers
+
+AWS Tweeps:
 
 * [@awscloud](https://twitter.com/awscloud) - Official Twitter feed.
 * [@AWSreInvent](https://twitter.com/AWSreInvent) - Official Twitter account for re:Invent.
 * [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: AWS Chief Evangelist.
 * [@Werner](https://twitter.com/Werner) - Werner Vogels: Amazon CTO.
 
+Community Tweeps:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### Facebook Pages
+
+AWS Pages:
 
 * [amazonwebservices](https://www.facebook.com/amazonwebservices) - Official Facebook page.
 * [awsreinvent](https://www.facebook.com/awsreinvent) - Official Facebook page for re:Invent.
 
+Community Pages:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### YouTube Channels
+
+AWS Channels:
 
 * [AmazonWebServices](https://www.youtube.com/user/AmazonWebServices)
 * [AWSDeutsch](https://www.youtube.com/user/AWSAktuell)
@@ -994,10 +1107,20 @@ From the Community:
 * [AWSTutorialSeries](https://www.youtube.com/user/awstutorialseries)
 * [AWSWebinars](https://www.youtube.com/user/AWSwebinars)
 
+Community Channels:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
 ### LinkedIn Groups
+
+AWS Groups:
 
 * [Amazon Web Services Community Network](https://www.linkedin.com/grp/home?gid=49531)
 * [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
+
+Community Groups:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Subreddits
 
@@ -1006,9 +1129,15 @@ From the Community:
 
 ### Conferences
 
+AWS Conferences:
+
 * [re:Invent](https://reinvent.awsevents.com/) - Annual user conference. The event features keynote announcements, training and certification opportunities, over 250 technical sessions, a partner expo, after hours activities, and more.
 * [Summits](https://aws.amazon.com/summits/) - Global one-day events that are designed to educate new customers about the AWS platform and offer existing customers deep technical content to be more successful with AWS.
 * [AWSome Day](https://aws.amazon.com/events/awsome-day-roadshow-mar-2015/) - Global one-day events are delivered by AWS Education's technical instructors and are ideal for IT pros, developers and technical managers who would like to learn about how to get started in the AWS Cloud.
+
+Community Conferences:
+
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ## Latest KPIs
 
@@ -1047,7 +1176,9 @@ From the Community:
 
 ### Services in Plain English
 
-* [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - Entertaining and educational.
+
+
+* [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - Entertaining and educational, a community contribution.
 
 ### Compute Services
 
