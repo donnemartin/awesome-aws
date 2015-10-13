@@ -158,7 +158,7 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
 * [Install](https://github.com/mcohen01/amazonica#installation)
 * [Docs](https://github.com/mcohen01/amazonica#documentation)
 
-*The Haskell SDK is a community project with limited docs and/or samples.*)
+*The Clojure SDK is a community project with limited docs and/or samples.*)
 
 ### Go SDK
 
@@ -213,8 +213,12 @@ Related Repos:
 
 ### Haskell SDK
 
-* [Repo :fire:](https://github.com/aristidb/aws)
-* [Install](https://github.com/aristidb/aws#installation)
+* [Repo](https://github.com/brendanhay/amazonka)
+* [Docs](http://brendanhay.nz/amazonka-doc/)
+
+Related Repos:
+
+* [aristidb/aws :fire:](https://github.com/aristidb/aws)
 
 *The Haskell SDK is a community project with limited docs and/or samples.*
 
@@ -831,6 +835,7 @@ Community Repos:
 * [chef-cookbooks/aws :fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
+* [NixOS/nixops :fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
 
 ### Security
 
