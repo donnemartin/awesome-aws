@@ -28,7 +28,7 @@ Check out the following sections for details on how to add/modify/remove links.
     * Maintain alphabetical ordering where applicable.
 * Add a section if needed.
     * Add the section description.
-    * Add the section title to Table of Contents.
+    * Add the section title to the [Index](https://github.com/donnemartin/awesome-aws#index).
 * You generally do not need to mention `AWS` or `Amazon Web Services` in the description as it's implied.
 * Check your spelling and grammar.
 * Remove any trailing whitespace.
