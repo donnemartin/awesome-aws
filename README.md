@@ -156,7 +156,7 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
 * [Install](https://github.com/mcohen01/amazonica#installation)
 * [Docs](https://github.com/mcohen01/amazonica#documentation)
 
-*The Haskell SDK is a community project with limited docs and/or samples.*)
+*The Clojure SDK is a community project with limited docs and/or samples.*)
 
 ### Go SDK
 
@@ -211,8 +211,12 @@ Related Repos:
 
 ### Haskell SDK
 
-* [Repo :fire:](https://github.com/aristidb/aws)
-* [Install](https://github.com/aristidb/aws#installation)
+* [Repo](https://github.com/brendanhay/amazonka)
+* [Docs](http://brendanhay.nz/amazonka-doc/)
+
+Related Repos:
+
+* [aristidb/aws :fire:](https://github.com/aristidb/aws)
 
 *The Haskell SDK is a community project with limited docs and/or samples.*
 
