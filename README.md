@@ -156,7 +156,7 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
 * [Install](https://github.com/mcohen01/amazonica#installation)
 * [Docs](https://github.com/mcohen01/amazonica#documentation)
 
-*The Haskell SDK is a community project with limited docs and/or samples.*)
+*The Clojure SDK is a community project with limited docs and/or samples.*)
 
 ### Go SDK
 
