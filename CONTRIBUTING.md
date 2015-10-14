@@ -8,13 +8,15 @@ Please ensure your pull request adheres to the following guidelines.
 
 For the initial launch of `awesome-aws`, each repo listed meets at least one of the following criteria:
 
-* Official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs)
 * Community-authored repo with 100+ stars
 * Community-vouched repo with < 100 stars
+* Official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs)
+
+100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request to start the discussion.
+
+**Pull requests might be left open for a period of time to let the community chime in and vouch for it.**  The [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) for all awesome lists aims for a curation, not a collection.
 
 An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.
-
-**100+ stars for community repos is not a strict requirement, it only serves as a guide post for the initial compilation.**  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request.
 
 Check out the following sections for details on how to add/modify/remove links.
 
