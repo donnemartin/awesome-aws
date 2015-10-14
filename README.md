@@ -769,6 +769,7 @@ Community Repos:
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 * [mardix/flask-cloudy](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
+* [minio/mc](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage (https://minio.io/#mc).
 * [pgherveou/gulp-awspublish :fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 * [s3tools/s3cmd :fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 * [schickling/git-s3 :fire:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
