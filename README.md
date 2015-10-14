@@ -397,6 +397,7 @@ Community Repos:
 
 * [achiku/jungle :fire::fire::fire:](https://github.com/achiku/jungle) - Operations by EC2 and ELB cli should be simpler.
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws) - A Supercharged AWS Command Line Interface.
+* [ilarimakela/ec2cli](https://github.com/ilarimakela/ec2cli) - CLI for EC2. Quickly find e.g. running instances or IP of specific instance.
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
 
 ### CloudFormation
