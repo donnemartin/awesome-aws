@@ -1082,6 +1082,7 @@ AWS Tweeps:
 
 * [@awscloud](https://twitter.com/awscloud) - Official Twitter feed.
 * [@AWSreInvent](https://twitter.com/AWSreInvent) - Official Twitter account for re:Invent.
+* [@ajassy](https://twitter.com/ajassy) - Andy Jassy: Senior Vice-President, AWS.
 * [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: AWS Chief Evangelist.
 * [@Werner](https://twitter.com/Werner) - Werner Vogels: Amazon CTO.
 
