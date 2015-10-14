@@ -41,6 +41,7 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
     * [JavaScript](#javascript-sdk)
     * [Haskell](#haskell-sdk)
     * [OCaml](#ocaml-sdk)
+    * [Perl](#perl-sdk)
     * [PHP](#php-sdk)
     * [Python](#python-sdk)
     * [Ruby](#ruby-sdk)
@@ -227,6 +228,14 @@ Related Repos:
 * [Repo](https://github.com/barko/aws)
 
 *The OCaml SDK is a community project with limited docs and/or samples.*
+
+### Perl SDK
+
+* [Repo](https://github.com/pplu/aws-sdk-perl)
+* [Repo with Samples](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
+* [Install](https://github.com/pplu/aws-sdk-perl#installation)
+* [Docs](https://metacpan.org/pod/Paws)
+* [Learn More](https://metacpan.org/pod/Paws)
 
 ### PHP SDK
 
