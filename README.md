@@ -859,10 +859,6 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
-
-Community Repos:
-
 * [AdRoll/hologram :fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
 * [cloudsploit/scans :fire:](https://github.com/cloudsploit/scans) - Detects security risks.
 * [iSECPartners/Scout2 :fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
