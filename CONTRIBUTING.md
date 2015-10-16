@@ -14,11 +14,7 @@ For the initial launch of `awesome-aws`, each repo listed meets at least one of 
 
 100+ stars for community repos is not a strict requirement, it only serves as a guideline for the initial compilation.  If you can vouch for the awesomeness of a repo with < 100 stars and you can explain why it should be listed, please submit a pull request to start the discussion.
 
-**Pull requests might be left open for a period of time to let the community chime in and vouch for it.**  The [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) for all awesome lists aims for a curation, not a collection.
-
-An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.
-
-Check out the following sections for details on how to add/modify/remove links.
+Pull requests might be left open for a period of time to let the community chime in and vouch for it.  An official repo from [aws](https://github.com/aws) or [awslabs](https://github.com/awslabs) can be removed if the community wishes.  Check out the [awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md).
 
 ## New Links
 
