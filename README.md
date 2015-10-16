@@ -1122,7 +1122,9 @@ AWS Channels:
 
 Community Channels:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [Linux Academy](https://www.youtube.com/user/pineheadtv/playlists)
+* [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
+* [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
 
 ### LinkedIn Groups
 
