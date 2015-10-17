@@ -1124,9 +1124,9 @@ AWS Channels:
 
 Community Channels:
 
-* [Linux Academy](https://www.youtube.com/user/pineheadtv/playlists)
-* [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
 * [Backspace Academy](https://www.youtube.com/channel/UCav3fsasRc5VOqvZiT5avgw)
+* [Cloud Academy](https://www.youtube.com/channel/UCeRY0LppLWdxWAymRANTb0g/videos)
+* [Linux Academy](https://www.youtube.com/user/pineheadtv/playlists)
 
 ### LinkedIn Groups
 
