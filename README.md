@@ -1137,9 +1137,9 @@ AWS Page:
 Community Groups:
 
 * [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
+* [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
 * [Amazon Web Services (AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
 * [Amazon Web Services Architects](https://www.linkedin.com/grps?gid=4233997)
-* [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
 * [Amazon Web Services Community Network](https://www.linkedin.com/grp/home?gid=49531)
 * [Amazon Web Services Enthusiasts](https://www.linkedin.com/grps?gid=2485626)
 * [Amazon Web Services Users](https://www.linkedin.com/grps?gid=86137)
