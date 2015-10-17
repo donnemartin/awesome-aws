@@ -1130,6 +1130,10 @@ Community Channels:
 
 ### LinkedIn Groups
 
+AWS Page:
+
+* [Amazon Web Services](https://www.linkedin.com/company/2382910)
+
 Community Groups:
 
 * [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
