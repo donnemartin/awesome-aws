@@ -1130,14 +1130,10 @@ Community Channels:
 
 ### LinkedIn Groups
 
-AWS Groups:
+Community Groups:
 
 * [Amazon Web Services Community Network](https://www.linkedin.com/grp/home?gid=49531)
 * [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
-
-Community Groups:
-
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Subreddits
 
