@@ -237,6 +237,8 @@ Related Repos:
 * [Docs](https://metacpan.org/pod/Paws)
 * [Learn More](https://metacpan.org/pod/Paws)
 
+*The Perl SDK is a community project.*
+
 ### PHP SDK
 
 * [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php)
