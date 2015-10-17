@@ -729,7 +729,6 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-flow-ruby-opsworks-helloworld](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - Hello World sample.
 * [opsworks-attribute-customization](https://github.com/awslabs/opsworks-attribute-customization) - Attribute customization example.
 * [opsworks-capistrano](https://github.com/awslabs/opsworks-capistrano) - Capistrano with instances.
 * [opsworks-cloudwatch-logs-cookbooks](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - CloudWatch sample cookbook.
@@ -802,6 +801,7 @@ AWS Repos:
 
 * [aws-flow-ruby :fire:](https://github.com/aws/aws-flow-ruby) - Creates background jobs and multistep workflows.
 * [aws-flow-ruby-samples](https://github.com/awslabs/aws-flow-ruby-samples) - AWS Flow Framework for Ruby samples.
+* [aws-flow-ruby-opsworks-helloworld](https://github.com/awslabs/aws-flow-ruby-opsworks-helloworld) - Hello World sample.
 
 Community Repos:
 
