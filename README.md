@@ -756,6 +756,7 @@ AWS Repos:
 
 Community Repos:
 
+* [re:dash :fire::fire::fire:](https://github.com/everythingme/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
 * [Redshift Console](https://github.com/EverythingMe/redshift_console) -  simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
