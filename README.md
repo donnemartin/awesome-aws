@@ -756,6 +756,7 @@ AWS Repos:
 
 Community Repos:
 
+* [Redshift Console](https://github.com/EverythingMe/redshift_console) -  simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Route 53
