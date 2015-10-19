@@ -759,6 +759,8 @@ Community Repos:
 
 * [everythingme/redash :fire::fire::fire:](https://github.com/everythingme/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
 * [everythingMe/redshift_console](https://github.com/EverythingMe/redshift_console) -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
+* [zalora/postgresql-user-manager](https://github.com/zalora/postgresql-user-manager) -  A simple command-line tool for managing User Privileges in PostgreSQL Database, works with Amazon Redshift and Amazon RDS (PostgreSQL).
+* [lenguyenthedat/aws-redshift-to-rds](https://github.com/lenguyenthedat/aws-redshift-to-rds) - A simple command-line tool to copy tables from Amazon Redshift to Amazon RDS (PostgreSQL).
 
 ### Route 53
 
