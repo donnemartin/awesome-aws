@@ -424,6 +424,7 @@ Community Repos:
 * [beaknit/cform](https://github.com/beaknit/cform) - SublimeText plugin.
 * [cloudtools/troposphere :fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
 * [cotdsa/cumulus :fire:](https://github.com/cotdsa/cumulus) - Manages stacks.
+* [cloudformation-ruby-dsl](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating Cloudformation templates
 
 ### CloudSearch
 
