@@ -264,6 +264,7 @@ Related Repos:
 Related Repos:
 
 * [boto3 :fire::fire::fire:](https://github.com/boto/boto3)
+* [botocore :fire::fire:](https://github.com/boto/botocore)
 
 ### Ruby SDK
 
