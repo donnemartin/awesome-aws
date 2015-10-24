@@ -1108,7 +1108,9 @@ AWS Tweeps:
 
 Community Tweeps:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [@kennwhite](https://twitter.com/kennwhite)
+* [@esh](https://twitter.com/esh)
+* [@garnaat](https://twitter.com/garnaat)
 
 ### Facebook Pages
 
