@@ -1099,12 +1099,12 @@ AWS Tweeps:
 * [@AWSMarketplace](https://twitter.com/AWSMarketplace)
 * [@AWSreInvent](https://twitter.com/AWSreInvent) - Official Twitter account for re:Invent.
 * [@AWSStartups](https://twitter.com/AWSStartups)
-* [@ajassy](https://twitter.com/ajassy) - Andy Jassy: Senior Vice-President, AWS.
+* [@ajassy](https://twitter.com/ajassy) - Andy Jassy: Senior Vice-President.
 * [@Ianmmmm](https://twitter.com/Ianmmmm) - Ian Massingham - Technical Evangelist.
-* [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: AWS Chief Evangelist.
+* [@jeffbarr](https://twitter.com/jeffbarr) - Jeff Barr: Chief Evangelist.
 * [@mndoci](https://twitter.com/mndoci) - Deepak Singh: GM EC2.
 * [@mza](https://twitter.com/mza) - Matt Wood: Product Strategy.
-* [@Werner](https://twitter.com/Werner) - Werner Vogels: Amazon CTO.
+* [@Werner](https://twitter.com/Werner) - Werner Vogels: CTO.
 * [Community heroes, Evangelists, etc](https://twitter.com/awscloud/lists)
 
 Community Tweeps:
