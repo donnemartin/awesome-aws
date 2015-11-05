@@ -4,9 +4,6 @@
 </p>
 <br/>
 
-https://github.com/rlmcpherson/s3gof3r
-https://github.com/lyft/confidant
-
 # Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
@@ -554,6 +551,7 @@ AWS Repos:
 
 Community Repos:
 
+* [lyft/confidant :fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
 ### Elastic Beanstalk
