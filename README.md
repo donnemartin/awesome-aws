@@ -4,6 +4,9 @@
 </p>
 <br/>
 
+https://github.com/rlmcpherson/s3gof3r
+https://github.com/lyft/confidant
+
 # Awesome AWS [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome AWS libraries, open source repos, guides, blogs, and other resources.
@@ -785,6 +788,7 @@ Community Repos:
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 * [minio/mc](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
 * [pgherveou/gulp-awspublish :fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
+* [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
 * [s3tools/s3cmd :fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 * [schickling/git-s3 :fire:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
 * [sorentwo/carrierwave-aws :fire:](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
