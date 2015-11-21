@@ -143,8 +143,8 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
 * [Repo :fire:](https://github.com/aws/aws-sdk-android)
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-sdk-android-samples)
 * [Install](http://sdk-for-android.amazonwebservices.com/latest/aws-android-sdk.zip)
-* [Docs](https://aws.amazon.com/documentation/sdkforandroid/)
-* [Learn More](https://aws.amazon.com/sdkforandroid/)
+* [Docs](https://aws.amazon.com/documentation/sdk-for-android/)
+* [Learn More](https://aws.amazon.com/mobile/sdk/)
 
 ### C++ SDK
 
@@ -177,8 +177,8 @@ Related Repos:
 * [Repo :fire::fire:](https://github.com/aws/aws-sdk-ios)
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-sdk-ios-samples)
 * [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
-* [Docs](https://aws.amazon.com/documentation/sdkforios/)
-* [Learn More](https://aws.amazon.com/sdkforios/)
+* [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
+* [Learn More](https://aws.amazon.com/mobile/sdk/)
 
 ### IoT SDK
 
@@ -195,8 +195,8 @@ Related Repos:
 * [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java)
 * [Repo with Samples](https://github.com/awslabs/aws-java-sample)
 * [Install](http://sdk-for-java.amazonwebservices.com/latest/aws-java-sdk.zip)
-* [Docs](https://aws.amazon.com/documentation/sdkforjava/)
-* [Learn More](https://aws.amazon.com/sdkforjava/)
+* [Docs](https://aws.amazon.com/documentation/sdk-for-java/)
+* [Learn More](https://aws.amazon.com/sdk-for-java/)
 
 ### JavaScript SDK
 
@@ -204,7 +204,7 @@ Related Repos:
 * [Repo with Samples](https://github.com/awslabs/aws-nodejs-sample)
 * [Install](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-javascript/)
-* [Learn More](https://aws.amazon.com/sdkfornodejs/)
+* [Learn More](https://aws.amazon.com/sdk-for-node-js/)
 
 Related Repos:
 
@@ -310,8 +310,8 @@ Related Repos:
 * [Repo :fire::fire:](https://github.com/aws/aws-sdk-net)
 * [Repo with Samples](https://github.com/awslabs/aws-auto-scaling-console-sample)
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
-* [Docs](https://aws.amazon.com/documentation/sdkfornet/)
-* [Learn More](https://aws.amazon.com/sdkfornet/)
+* [Docs](https://aws.amazon.com/documentation/sdk-for-net/)
+* [Learn More](https://aws.amazon.com/sdk-for-net/)
 * [Samples](https://github.com/awslabs/aws-sdk-net-samples)
 
 ## Command Line Tools
@@ -353,14 +353,14 @@ Related Repos:
 
 ### Eclipse Toolkit
 
-* [Install](http://docs.amazonwebservices.com/AWSToolkitEclipse/latest/GettingStartedGuide/tke_setup.html)
+* [Install](http://docs.aws.amazon.com/AWSToolkitEclipse/latest/ug/tke_setup.html)
 * [Docs](https://aws.amazon.com/documentation/awstoolkiteclipse/)
 * [Learn More](https://aws.amazon.com/eclipse/)
 
 ### Visual Studio Toolkit
 
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
-* [Docs](https://aws.amazon.com/documentation/awstoolkitvisualstudio/)
+* [Docs](https://aws.amazon.com/documentation/aws-toolkit-visual-studio/)
 * [Learn More](https://aws.amazon.com/visualstudio/)
 
 ## Open Source Repos
@@ -379,7 +379,7 @@ AWS Repos:
 
 * [api-gateway-secure-pet-store](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
 * [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
-* [aws-apigateway-swagger-importer :fire:](https://github.com/awslabs/aws-apigateway-swagger-importer) - Tools to work with Swagger.
+* [aws-apigateway-swagger-importer :fire:](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
 
 Community Repos:
 
@@ -993,9 +993,9 @@ Community Guides:
 ### Documentation
 
 * [Documentation](https://aws.amazon.com/documentation/)
-* [AWS Billing and Cost Management](https://aws.amazon.com/documentation/accountbilling/)
+* [AWS Billing and Cost Management](https://aws.amazon.com/documentation/account-billing/)
 * [AWS Marketplace](https://aws.amazon.com/documentation/marketplace/)
-* [AWS Support](https://aws.amazon.com/documentation/awssupport/)
+* [AWS Support](https://aws.amazon.com/documentation/aws-support/)
 * [AWS General Reference](http://docs.aws.amazon.com/general/latest/gr/)
 * [AWS Glossary](http://docs.aws.amazon.com/general/latest/gr/glos-chap.html)
 
@@ -1149,7 +1149,7 @@ Community Channels:
 
 AWS Page:
 
-* [Amazon Web Services](https://www.linkedin.com/company/2382910)
+* [Amazon Web Services](https://www.linkedin.com/company/amazon-web-services)
 
 Community Groups:
 
@@ -1281,10 +1281,10 @@ Community Conferences:
 
 ### Mobile Services
 
-* [AWS Mobile Hub](https://aws.amazon.com/mobile-hub/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
+* [AWS Mobile Hub](https://aws.amazon.com/mobile/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
 * [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
 * [Amazon Cognito](https://aws.amazon.com/cognito/) - Provides user identity and data synchronization.
-* [AWS Device Farm](https://aws.amazon.com/devicefarm/) - App testing service for iOS, Android and Fire OS apps on physical devices.
+* [AWS Device Farm](https://aws.amazon.com/device-farm/) - App testing service for iOS, Android and Fire OS apps on physical devices.
 * [Amazon Mobile Analytics](https://aws.amazon.com/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data.
 * [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
 
