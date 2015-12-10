@@ -705,7 +705,7 @@ Community Repos:
 
 * [cloudnative/lambda-chat :fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
 * [danilop/LambdAuth :fire::fire:](https://github.com/danilop/LambdAuth) - Sample authentication service.
-* [jaws-framework/JAWS :fire::fire::fire::fire::fire:](https://github.com/jaws-framework/JAWS) Server-less Application Framework.
+* [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.
 * [Tim-B/grunt-aws-lambda :fire:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
 
