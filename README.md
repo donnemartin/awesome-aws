@@ -91,9 +91,10 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
     * [Security](#security)
     * [Accompanying](#accompanying-repos)
     * [Miscellaneous](#miscellaneous-repos)
-* [Guides, Documentation, and Training](#guides-documentation-and-training)
+* [Guides, Books, Documentation, and Training](#guides-books-documentation-and-training)
     * [Getting Started Guides](#getting-started-guides)
     * [General Guides](#general-guides)
+    * [Books](#books)
     * [Whitepapers](#whitepapers)
     * [Documentation](#documentation)
     * [Training](#training)
@@ -938,7 +939,7 @@ Community Repos:
 * [puppetlabs/puppetlabs-aws](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
 * [react-server-routing-example](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 
-## Guides, Documentation, and Training
+## Guides, Books, Documentation, and Training
 
 *How-to's, training, whitepapers, docs, and case studies.*
 
@@ -984,6 +985,10 @@ AWS Guides:
 Community Guides:
 
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
+### Books
+
+* Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885) 
 
 ### Whitepapers
 
