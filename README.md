@@ -166,7 +166,7 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
 
 ### Go SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-go)
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-go)
 * [Install](https://github.com/aws/aws-sdk-go/wiki)
 * [Docs](http://docs.aws.amazon.com/sdk-for-go/api/)
 * [Learn More](https://aws.amazon.com/sdk-for-go/)
@@ -217,7 +217,7 @@ Related Repos:
 
 ### Haskell SDK
 
-* [Repo](https://github.com/brendanhay/amazonka)
+* [Repo :fire:](https://github.com/brendanhay/amazonka)
 * [Docs](http://brendanhay.nz/amazonka-doc/)
 
 Related Repos:
@@ -383,7 +383,7 @@ AWS Repos:
 
 * [api-gateway-secure-pet-store](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
 * [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
-* [aws-apigateway-swagger-importer :fire:](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
+* [aws-apigateway-swagger-importer :fire::fire:](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
 
 Community Repos:
 
@@ -405,7 +405,7 @@ Community Repos:
 
 AWS Repos:
 
-* [amazon-ecs-cli](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands.
+* [amazon-ecs-cli :fire:](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands.
 * [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) - Universal Command Line Interface.
 * [aws-shell :fire::fire::fire:](https://github.com/awslabs/aws-shell)
 * [awscli-cookbook](https://github.com/awslabs/awscli-cookbook) - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
@@ -423,11 +423,11 @@ AWS Repos:
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
 * [cfncluster-cookbook](https://github.com/awslabs/cfncluster-cookbook) - Sample Cookbook.
-* [cfncluster](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
+* [cfncluster :fire:](https://github.com/awslabs/cfncluster) - Framework that deploys and maintains HPC clusters.
 
 Community Repos:
 
-* [bazaarvoice/cloudformation-ruby-dsl](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating templates.
+* [bazaarvoice/cloudformation-ruby-dsl :fire:](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating templates.
 * [beaknit/cform](https://github.com/beaknit/cform) - SublimeText plugin.
 * [cloudtools/troposphere :fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
 * [cotdsa/cumulus :fire:](https://github.com/cotdsa/cumulus) - Manages stacks.
@@ -463,7 +463,7 @@ AWS Repos:
 
 Community Repos:
 
-* [jorgebastida/awslogs :fire:](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
+* [jorgebastida/awslogs :fire::fire:](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
 * [newrelic-platform/newrelic_aws_cloudwatch_plugin :fire:](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin.
 
 ### Code Deploy
@@ -556,7 +556,7 @@ AWS Repos:
 
 Community Repos:
 
-* [lyft/confidant :fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
+* [lyft/confidant :fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 
 ### Elastic Beanstalk
@@ -586,7 +586,6 @@ Community Repos:
 
 AWS Repos:
 
-* [ec2-udev-scripts](https://github.com/awslabs/ec2-udev-scripts) - Some udev rules and scripts to enable /dev/disk/by-ebs-volumeid.
 
 Community Repos:
 
@@ -708,7 +707,7 @@ AWS Repos:
 
 Community Repos:
 
-* [cloudnative/lambda-chat :fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
+* [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
 * [danilop/LambdAuth :fire::fire:](https://github.com/danilop/LambdAuth) - Sample authentication service.
 * [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.
@@ -718,7 +717,7 @@ Community Repos:
 
 AWS Repos:
 
-* [machine-learning-samples :fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
+* [machine-learning-samples :fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 
 Community Repos:
 
@@ -787,10 +786,10 @@ Community Repos:
 * [CulturalMe/meteor-slingshot :fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 * [grippy/node-s3](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
-* [mardix/flask-cloudy](https://github.com/mardix/flask-cloudy) - Flask extension.
+* [mardix/flask-cloudy :fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
-* [minio/mc](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
-* [pgherveou/gulp-awspublish :fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
+* [minio/mc :fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
+* [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 * [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
 * [s3tools/s3cmd :fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 * [schickling/git-s3 :fire:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
@@ -857,7 +856,7 @@ Community Repos:
 
 Community Repos:
 
-* [chef-cookbooks/aws :fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
+* [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
 * [k1LoW/awspec :fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
@@ -878,7 +877,7 @@ Community Repos:
 * [cloudsploit/scans :fire:](https://github.com/cloudsploit/scans) - Detects security risks.
 * [iSECPartners/Scout2 :fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
 * [Netflix/security_monkey :fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
-* [sebsto/AWSVPN](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
+* [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 
 ### Accompanying Repos
 
@@ -887,7 +886,7 @@ AWS Repos:
 *Repos Accompanying Blogs, Training Events, and Conferences.*
 
 * [aws-arch-backoff-simulator](https://github.com/awslabs/aws-arch-backoff-simulator) - Jitter and backoff Simulator for AWS architecture blog.
-* [aws-big-data-blog](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
+* [aws-big-data-blog :fire:](https://github.com/awslabs/aws-big-data-blog) - Samples from the AWS Big Data Blog.
 * [aws-demo-php-simple-app](https://github.com/awslabs/aws-demo-php-simple-app) - PHP apps from the AWS Blogs.
 * [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
 * [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.
@@ -921,8 +920,8 @@ AWS Repos:
 Community Repos:
 
 * [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
-* [Comcast/cmb :fire:](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
-* [dtan4/terraforming :fire:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
+* [Comcast/cmb :fire::fire:](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
+* [dtan4/terraforming :fire::fire:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
 * [j2labs/microarmy :fire:](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
 * [jpillora/grunt-aws :fire:](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
 * [jvehent/haproxy-aws :fire:](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
@@ -934,14 +933,14 @@ Community Repos:
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
 * [Netflix/eureka :fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
 * [Netflix/EVCache :fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store.
-* [Netflix/Fenzo :fire:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks.
+* [Netflix/Fenzo :fire::fire:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks.
 * [Netflix/ice :fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
 * [Netflix/ribbon :fire::fire::fire:](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers.
 * [Netflix/SimianArmy :fire::fire::fire::fire::fire:](https://github.com/Netflix/SimianArmy) - Tools to keep your cloud operating in top form.
 * [Netflix/zuul :fire::fire::fire:](https://github.com/Netflix/zuul) - Edge service that provides dynamic routing, monitoring, resiliency, security, and more.
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash) - Open-source LaunchRock alternative. Build beautiful splash pages.
-* [puppetlabs/puppetlabs-aws](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
-* [react-server-routing-example](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
+* [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
+* [react-server-routing-example :fire:](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
 
 ## Guides, Books, Documentation, and Training
 
