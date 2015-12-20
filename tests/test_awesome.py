@@ -5,6 +5,7 @@
 # Creative Commons Attribution 4.0 International License (CC BY 4.0)
 # http://creativecommons.org/licenses/by/4.0/
 
+import mock
 import os
 import unittest
 
@@ -31,7 +32,8 @@ class AwesomeTest(unittest.TestCase):
             MockRepo('awesome-aws', 9000),
         ]
 
-    def test_rock_it(self):
+    @mock.patch('awesome.awesome.click')
+    def test_rock_it(self, mock_click):
         README = os.path.join(os.path.dirname(__file__),
                               'data/README.md')
         README_RESULT = os.path.join(os.path.dirname(__file__),
@@ -42,3 +44,11 @@ class AwesomeTest(unittest.TestCase):
             for line in f:
                 result.append(line)
         assert result == readme_expected
+        assert mock.call.secho('Broken repos:', fg='red') \
+            in mock_click.mock_calls
+        assert mock.call.secho('  https://github.com/user/broken', fg='red') \
+            in mock_click.mock_calls
+        assert mock.call.secho('Rate limit: 9000', fg='blue') \
+            in mock_click.mock_calls
+        assert mock.call.secho('Updated ' + README_RESULT, fg='blue') \
+            in mock_click.mock_calls
