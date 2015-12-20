@@ -1,0 +1,15 @@
+language: python
+env:
+  - TOXENV=py26
+  - TOXENV=py27
+  - TOXENV=py33
+  - TOXENV=py34
+os:
+  - linux
+install:
+  - travis_retry pip install tox
+  - pip install codecov
+script:
+  - tox
+after_success:
+  - codecov
