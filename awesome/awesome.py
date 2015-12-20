@@ -40,6 +40,7 @@ class Awesome(object):
             'https://github.com/donnemartin/awesome-aws',
             'https://github.com/sindresorhus/awesome',
             'https://github.com/kilimchoi/engineering-blogs',
+            'https://github.com/aws/aws-sdk-go/wiki',
             '#',
         ]
 
