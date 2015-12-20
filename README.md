@@ -334,6 +334,7 @@ Related Repos:
 
 Related Repos:
 
+* [awslabs/aws-shell :fire::fire::fire:](https://github.com/awslabs/aws-shell)
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws)
 
 ### Windows PowerShell
@@ -404,6 +405,7 @@ AWS Repos:
 
 * [amazon-ecs-cli](https://github.com/aws/amazon-ecs-cli) - ECS CLI using the same Docker Compose file format and familiar Compose commands.
 * [aws-cli :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli) - Universal Command Line Interface.
+* [aws-shell :fire::fire::fire:](https://github.com/awslabs/aws-shell)
 * [awscli-cookbook](https://github.com/awslabs/awscli-cookbook) - Installs the CLI tools and provides a set of LWRPs for use within chef cookbooks.
 
 Community Repos:
