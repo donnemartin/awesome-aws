@@ -588,6 +588,7 @@ Community Repos:
 
 AWS Repos:
 
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 Community Repos:
 
