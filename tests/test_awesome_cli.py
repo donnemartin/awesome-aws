@@ -17,3 +17,7 @@ class AwesomeCliTest(unittest.TestCase):
     def setUp(self):
         self.runner = CliRunner()
         self.awesome_cli = AwesomeCli()
+
+    def test_cli(self):
+        result = self.runner.invoke(self.awesome_cli.cli)
+        assert result.exit_code == 0
