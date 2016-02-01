@@ -946,6 +946,7 @@ Community Repos:
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash) - Open-source LaunchRock alternative. Build beautiful splash pages.
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
 * [react-server-routing-example :fire:](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
+* [spulec/moto :fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
 
 ## Guides, Books, Documentation, and Training
 
