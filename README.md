@@ -712,7 +712,7 @@ Community Repos:
 
 * [apex/apex :fire::fire::fire::fire:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 * [Tim-B/grunt-aws-lambda :fire:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
-* [garnaat/kappa :fire::fire:](https://github.com/garnaat/kappa) - Kappa is a command line tool that (hopefully) makes it easier to deploy, update, and test functions for AWS Lambda. 
+* [garnaat/kappa :fire::fire:](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda. 
 * [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
 * [danilop/LambdAuth :fire::fire:](https://github.com/danilop/LambdAuth) - Sample authentication service.
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.
