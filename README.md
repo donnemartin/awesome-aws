@@ -881,7 +881,7 @@ Community Repos:
 
 * [AdRoll/hologram :fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
 * [cloudsploit/scans :fire:](https://github.com/cloudsploit/scans) - Detects security risks.
-* [iSECPartners/Scout2 :fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
+* [iSECPartners/Scout2 :fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
 * [Netflix/security_monkey :fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 
