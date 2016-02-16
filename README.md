@@ -804,7 +804,7 @@ Community Repos:
 * [tongwang/s3fs-c :fire:](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
 * [twpayne/s3-parallel-put :fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
 * [weavejester/clj-aws-s3 :fire:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
-
+* [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - Parallew upload/download to S3 via Python.
 ### SES
 
 Community Repos:
