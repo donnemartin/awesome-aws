@@ -795,6 +795,7 @@ Community Repos:
 * [mardix/flask-cloudy :fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 * [minio/mc :fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
+* [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 * [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
 * [s3tools/s3cmd :fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
@@ -804,7 +805,7 @@ Community Repos:
 * [tongwang/s3fs-c :fire:](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
 * [twpayne/s3-parallel-put :fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
 * [weavejester/clj-aws-s3 :fire:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
-* [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - Parallew upload/download to S3 via Python.
+
 ### SES
 
 Community Repos:
