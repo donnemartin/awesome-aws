@@ -23,8 +23,8 @@ except ImportError:
     import ConfigParser as configparser
 
 import click
-from github3 import authorize, login
-from github3.exceptions import UnprocessableEntity
+from githubcli.lib.github3 import authorize, login
+from githubcli.lib.github3.exceptions import UnprocessableEntity
 
 
 class GitHub(object):

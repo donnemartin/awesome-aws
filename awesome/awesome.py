@@ -8,7 +8,7 @@
 import re
 
 import click
-from github3 import null
+from githubcli.lib.github3 import null
 
 from awesome.lib.github import GitHub
 
