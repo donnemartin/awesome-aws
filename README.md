@@ -710,7 +710,7 @@ AWS Repos:
 
 Community Repos:
 
-* [apex/apex :fire::fire::fire::fire:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
+* [apex/apex :fire::fire::fire::fire::fire:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 * [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
 * [danilop/LambdAuth :fire::fire:](https://github.com/danilop/LambdAuth) - Sample authentication service.
 * [garnaat/kappa :fire::fire:](https://github.com/garnaat/kappa) - Kappa is a CLI tool that makes it easier to deploy, update, and test functions for AWS Lambda.
