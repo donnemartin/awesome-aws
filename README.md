@@ -940,7 +940,7 @@ Community Repos:
 * [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
 * [Netflix/eureka :fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
-* [Netflix/EVCache :fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store.
+* [Netflix/EVCache :fire::fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store.
 * [Netflix/Fenzo :fire::fire:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks.
 * [Netflix/ice :fire::fire::fire::fire:](https://github.com/Netflix/ice) - Usage and cost monitoring tool.
 * [Netflix/ribbon :fire::fire::fire:](https://github.com/Netflix/ribbon) - Remote procedure call library with built in software load balancers.
