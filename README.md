@@ -777,7 +777,7 @@ Community Repos:
 
 AWS Repos:
 
-* [route53-infima](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
+* [route53-infima :fire:](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
 
 Community Repos:
 
