@@ -179,7 +179,7 @@ Related Repos:
 
 ### iOS SDK
 
-* [Repo :fire::fire:](https://github.com/aws/aws-sdk-ios)
+* [Repo :fire::fire::fire:](https://github.com/aws/aws-sdk-ios)
 * [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples)
 * [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
