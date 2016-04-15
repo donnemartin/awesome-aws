@@ -582,7 +582,7 @@ AWS Repos:
 Community Repos:
 
 * [alienfast/elastic-beanstalk :fire:](https://github.com/alienfast/elastic-beanstalk) - Gem with rake configuration and deployment for rails apps.
-* [ThoughtWorksStudios/eb_deployer :fire:](https://github.com/ThoughtWorksStudios/eb_deployer) - Blue-green deployment automation.
+* [ThoughtWorksStudios/eb_deployer :fire::fire:](https://github.com/ThoughtWorksStudios/eb_deployer) - Blue-green deployment automation.
 
 ### Elastic Compute Cloud
 
