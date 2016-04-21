@@ -383,7 +383,7 @@ Related Repos:
 
 AWS Repos:
 
-* [api-gateway-secure-pet-store](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
+* [api-gateway-secure-pet-store :fire:](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
 * [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
 * [aws-apigateway-swagger-importer :fire::fire:](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
 
