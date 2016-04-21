@@ -153,7 +153,7 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
 
 ### C++ SDK
 
-* [Repo :fire::fire:](https://github.com/awslabs/aws-sdk-cpp)
+* [Repo :fire::fire:](https://github.com/aws/aws-sdk-cpp)
 * [Blog with Samples](https://aws.amazon.com/blogs/aws/introducing-the-aws-sdk-for-c/)
 
 *The C++ SDK is a labs project with limited docs and/or samples.*
@@ -262,7 +262,7 @@ Related Repos:
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto)
 * [Repo with Samples](https://github.com/awslabs/aws-python-sample)
-* [Install](http://github.com/boto/boto#installation)
+* [Install](https://github.com/boto/boto#installation)
 * [Docs](http://docs.pythonboto.org/en/latest/)
 * [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto)
 
@@ -985,9 +985,9 @@ Community Guides:
 
 AWS Guides:
 
-* [Analyzing Big Data](http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-overview.html)
-    * [Sentiment Analysis](http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-sentiment-tutorial.html)
-    * [Web Server Log Analysis](http://docs.aws.amazon.com/gettingstarted/latest/emr/getting-started-emr-tutorial.html)
+* [Analyzing Big Data](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
+    * [Sentiment Analysis](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
+    * [Web Server Log Analysis](http://docs.aws.amazon.com/ElasticMapReduce/latest/ManagementGuide/emr-gs.html)
 * [Working with the AWS Management Console](http://docs.aws.amazon.com/awsconsolehelpdocs/latest/gsg/getting-started.html)
 * [Deploying a Web App Using Elastic Beanstalk](http://docs.aws.amazon.com/gettingstarted/latest/deploy/overview.html)
 * [Hosting a Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah-linux/web-app-hosting-intro.html)
@@ -1087,7 +1087,7 @@ AWS Blogs:
     * [Japan](http://aws.typepad.com/aws_japan/)
     * [Korea](http://aws.amazon.com/ko/blogs/korea/)
 * [Application Management](http://blogs.aws.amazon.com/application-management)
-* [Architecture](http://www.awsarchitectureblog.com/)
+* [Architecture](https://www.awsarchitectureblog.com/)
 * [Big Data](https://blogs.aws.amazon.com/bigdata/)
 * [Compute](https://aws.amazon.com/blogs/compute/)
 * [Mobile](https://mobile.awsblog.com/)
