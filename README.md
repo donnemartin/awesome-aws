@@ -216,6 +216,7 @@ Related Repos:
 * [chilts/awssum :fire::fire:](https://github.com/chilts/awssum)
 * [livelycode/aws-lib :fire::fire::fire:](https://github.com/livelycode/aws-lib)
 * [SaltwaterC/aws2js :fire::fire:](https://github.com/SaltwaterC/aws2js)
+* [littlstar/s3renity](https://github.com/littlstar/s3renity)
 
 ### Haskell SDK
 
