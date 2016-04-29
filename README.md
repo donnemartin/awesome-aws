@@ -44,7 +44,6 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
     * [Java](#java-sdk)
     * [JavaScript](#javascript-sdk)
     * [Haskell](#haskell-sdk)
-    * [OCaml](#ocaml-sdk)
     * [Perl](#perl-sdk)
     * [PHP](#php-sdk)
     * [Python](#python-sdk)
@@ -227,11 +226,6 @@ Related Repos:
 * [aristidb/aws :fire:](https://github.com/aristidb/aws)
 
 *The Haskell SDK is a community project with limited docs and/or samples.*
-
-### OCaml SDK
-
-
-*The OCaml SDK is a community project with limited docs and/or samples.*
 
 ### Perl SDK
 
