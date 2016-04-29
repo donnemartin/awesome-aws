@@ -44,7 +44,6 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
     * [Java](#java-sdk)
     * [JavaScript](#javascript-sdk)
     * [Haskell](#haskell-sdk)
-    * [OCaml](#ocaml-sdk)
     * [Perl](#perl-sdk)
     * [PHP](#php-sdk)
     * [Python](#python-sdk)
@@ -227,12 +226,6 @@ Related Repos:
 * [aristidb/aws :fire:](https://github.com/aristidb/aws)
 
 *The Haskell SDK is a community project with limited docs and/or samples.*
-
-### OCaml SDK
-
-* [Repo](https://github.com/barko/aws)
-
-*The OCaml SDK is a community project with limited docs and/or samples.*
 
 ### Perl SDK
 
@@ -1027,7 +1020,6 @@ Community Guides:
 * [Adobe](https://aws.amazon.com/solutions/case-studies/adobe/?pg=main-customer-success-page)
 * [AdRoll](https://aws.amazon.com/solutions/case-studies/adroll/)
 * [Airbnb](https://aws.amazon.com/solutions/case-studies/airbnb/?pg=main-customer-success-page)
-* [Amazon.com](https://aws.amazon.com/solutions/case-studies/amazon/)
 * [Autodesk](https://aws.amazon.com/solutions/case-studies/autodesk/)
 * [AWS](http://aws.amazon.com/)
 * [Citrix](https://aws.amazon.com/solutions/case-studies/citrix/)
@@ -1257,7 +1249,7 @@ Community Conferences:
 ### Enterprise Applications
 
 * [Amazon WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
-* [Amazon Workspaces Application Manager (WAM)](https://aws.amazon.com/wam/) - Simplifies deployment and management of WorkSpaces.
+* [Amazon Workspaces Application Manager (WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
 * [Amazon WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
 * [Amazon WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
 
