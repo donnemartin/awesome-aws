@@ -1249,6 +1249,7 @@ Community Conferences:
 ### Enterprise Applications
 
 * [Amazon WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
+* [Amazon Workspaces Application Manager (WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
 * [Amazon WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
 * [Amazon WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
 
