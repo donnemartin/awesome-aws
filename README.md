@@ -216,7 +216,6 @@ Related Repos:
 * [chilts/awssum :fire::fire:](https://github.com/chilts/awssum)
 * [livelycode/aws-lib :fire::fire::fire:](https://github.com/livelycode/aws-lib)
 * [SaltwaterC/aws2js :fire::fire:](https://github.com/SaltwaterC/aws2js)
-* [littlstar/s3renity](https://github.com/littlstar/s3renity)
 
 ### Haskell SDK
 
@@ -793,6 +792,7 @@ Community Repos:
 * [bloomreach/s4cmd :fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
 * [CulturalMe/meteor-slingshot :fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 * [grippy/node-s3](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
+* [littlstar/s3renity](https://github.com/littlstar/s3renity)
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 * [mardix/flask-cloudy :fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
