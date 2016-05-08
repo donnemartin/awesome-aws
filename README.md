@@ -710,7 +710,7 @@ Community Repos:
 * [mentum/lambdaws :fire::fire::fire::fire:](https://github.com/mentum/lambdaws) - Deploy, run and get results in a breeze.
 * [Miserlou/Zappa :fire::fire::fire:](https://github.com/Miserlou/Zappa) - Serverless WSGI Python Web Apps with AWS Lambda + API Gateway.
 * [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
-* [Tim-B/grunt-aws-lambda :fire:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
+* [Tim-B/grunt-aws-lambda :fire::fire:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
 
 ### Machine Learning
 
