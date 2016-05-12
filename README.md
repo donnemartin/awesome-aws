@@ -266,7 +266,7 @@ Related Repos:
 
 ### Ruby SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby)
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby)
 * [Repo with Samples](https://github.com/awslabs/aws-ruby-sample)
 * [Install](http://docs.aws.amazon.com/AWSSdkDocsRuby/latest/DeveloperGuide/ruby-dg-setup.html)
 * [Docs](http://docs.pythonboto.org/en/latest/)
