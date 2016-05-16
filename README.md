@@ -274,7 +274,7 @@ Related Repos:
 
 Related Repos:
 
-* [aws-sdk-rails](https://github.com/aws/aws-sdk-rails)
+* [aws-sdk-rails :fire:](https://github.com/aws/aws-sdk-rails)
 * [appoxy/aws :fire::fire:](https://github.com/appoxy/aws)
 * [rightscale/right_aws :fire::fire:](https://github.com/rightscale/right_aws)
 
