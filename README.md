@@ -239,7 +239,7 @@ Related Repos:
 
 ### PHP SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php)
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php)
 * [Repo with Samples](https://github.com/awslabs/aws-php-sample)
 * [Install](http://docs.aws.amazon.com/aws-sdk-php/v3/guide/getting-started/installation.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-php/)
