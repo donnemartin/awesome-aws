@@ -588,6 +588,7 @@ Community Repos:
 * [ConradIrwin/aws-name-server :fire::fire::fire:](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up instances by name.
 * [evannuil/aws-snapshot-tool :fire:](https://github.com/evannuil/aws-snapshot-tool) - Automates EBS snapshots and rotation.
 * [mirakui/ec2ssh :fire:](https://github.com/mirakui/ec2ssh) - SSH config manager.
+* [pmazurek/aws-fuzzy-finder](https://github.com/pmazurek/aws-fuzzy-finder) - SSH into instances using fuzzy search through instances names.
 * [skavanagh/EC2Box :fire::fire:](https://github.com/skavanagh/EC2Box) - A web-based SSH console to manage multiple instances simultaneously.
 * [wbailey/claws :fire:](https://github.com/wbailey/claws) - CLI-driven console with capistrano integration.
 
