@@ -144,7 +144,7 @@ Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-a
 
 ### Android SDK
 
-* [Repo :fire:](https://github.com/aws/aws-sdk-android)
+* [Repo :fire::fire:](https://github.com/aws/aws-sdk-android)
 * [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-sdk-android-samples)
 * [Install](http://sdk-for-android.amazonwebservices.com/latest/aws-android-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-android/)
