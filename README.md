@@ -1357,11 +1357,7 @@ Other awesome lists can be found in [awesome](https://github.com/sindresorhus/aw
 
 Feel free to contact me to discuss any issues, questions, or comments.
 
-* Email: [donne.martin@gmail.com](mailto:donne.martin@gmail.com)
-* Twitter: [donne_martin](https://twitter.com/donne_martin)
-* GitHub: [donnemartin](https://github.com/donnemartin)
-* LinkedIn: [donnemartin](https://www.linkedin.com/in/donnemartin)
-* Website: [donnemartin.com](http://donnemartin.com)
+My contact info can be found on my [GitHub page](https://github.com/donnemartin).
 
 ## License
 
