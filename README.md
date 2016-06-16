@@ -934,7 +934,6 @@ Community Repos:
 * [Netflix/aminator :fire::fire::fire:](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
 * [Netflix/archaius :fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API.
 * [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
-* [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
 * [Netflix/eureka :fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
 * [Netflix/EVCache :fire::fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store.
@@ -946,6 +945,7 @@ Community Repos:
 * [niftylettuce/gulp-aws-splash :fire::fire:](https://github.com/niftylettuce/gulp-aws-splash) - Open-source LaunchRock alternative. Build beautiful splash pages.
 * [puppetlabs/puppetlabs-aws :fire:](https://github.com/puppetlabs/puppetlabs-aws) - Puppet module for managing resources to build out infrastructure.
 * [react-server-routing-example :fire:](https://github.com/mhart/react-server-routing-example) - Sample universal client/server routing and data in React.
+* [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 * [spulec/moto :fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
 
 ## Guides, Books, Documentation, and Training
