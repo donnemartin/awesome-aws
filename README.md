@@ -877,6 +877,7 @@ AWS Repos:
 Community Repos:
 
 * [AdRoll/hologram :fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
+* [alex/letsencrypt-aws :fire:](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
 * [cloudsploit/scans :fire:](https://github.com/cloudsploit/scans) - Detects security risks.
 * [iSECPartners/Scout2 :fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
 * [Netflix/security_monkey :fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
