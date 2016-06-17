@@ -30,7 +30,9 @@ The Python module [`awesome-aws`](https://github.com/donnemartin/awesome-aws/tre
 
 Contributions are welcome!
 
-Check out the [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md).
+Review the [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md).
+
+Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issues/34).
 
 ## Index
 
