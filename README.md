@@ -462,7 +462,7 @@ Community Repos:
 
 * [jorgebastida/awslogs :fire::fire:](https://github.com/jorgebastida/awslogs) - Simple CLI for querying groups, streams and events.
 * [newrelic-platform/newrelic_aws_cloudwatch_plugin :fire:](https://github.com/newrelic-platform/newrelic_aws_cloudwatch_plugin) - New Relic plugin.
-* [https://github.com/axibase/axibase-collector-docs/blob/master/jobs/aws.md](https://github.com/axibase/axibase-collector-docs/blob/master/jobs/aws.md) - Axibase Time Series Database collector job.
+* [axibase/axibase-collector-docs/jobs/aws.md](https://github.com/axibase/axibase-collector-docs/blob/master/jobs/aws.md) - Axibase Time Series Database collector job.
 
 ### Code Deploy
 
