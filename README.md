@@ -925,7 +925,7 @@ AWS Repos:
 * [aws-hal-client-java](https://github.com/awslabs/aws-hal-client-java) - Java client for the Hypertext Application Language.
 * [aws-model-validators](https://github.com/awslabs/aws-model-validators) - Tools for validating the AWS service JSON model files.
 * [aws-sdk-js-sample-video-transcoder](https://github.com/awslabs/aws-sdk-js-sample-video-transcoder) - Sample cross-platform video transcoder app.
-* [simplebeerservice](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
+* [simplebeerservice :fire:](https://github.com/awslabs/simplebeerservice) - Cloud-connected kegerator that streams live sensor data to AWS.
 
 Community Repos:
 
