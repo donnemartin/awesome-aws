@@ -161,7 +161,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 
 ### Clojure SDK
 
-* [Repo :fire::fire:](https://github.com/mcohen01/amazonica)
+* [Repo :fire::fire::fire:](https://github.com/mcohen01/amazonica)
 * [Install](https://github.com/mcohen01/amazonica#installation)
 * [Docs](https://github.com/mcohen01/amazonica#documentation)
 
