@@ -701,7 +701,7 @@ AWS Repos:
 * [lambda-ecs-worker-pattern](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
 * [lambda-refarch-fileprocessing](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
 * [lambda-refarch-iotbackend](https://github.com/awslabs/lambda-refarch-iotbackend) - Reference Architecture for creating an IoT Backend.
-* [lambda-refarch-mobilebackend :fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend.
+* [lambda-refarch-mobilebackend :fire::fire:](https://github.com/awslabs/lambda-refarch-mobilebackend) - Reference Architecture for creating a Mobile Backend.
 * [lambda-refarch-webapp :fire:](https://github.com/awslabs/lambda-refarch-webapp) - Reference Architecture for creating a Web Application.
 
 Community Repos:
