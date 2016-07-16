@@ -697,6 +697,7 @@ AWS Repos:
 * [amazon-elasticsearch-lambda-samples](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
 * [aws-lambda-java-libs](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
 * [aws-lambda-redshift-loader :fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
+* [chalice :fire::fire::fire:](https://github.com/awslabs/chalice) - Python Serverless Microframework.
 * [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) - Uses the grunt-aws-lambda plugin to help you develop and test.
 * [lambda-ecs-worker-pattern](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
 * [lambda-refarch-fileprocessing](https://github.com/awslabs/lambda-refarch-fileprocessing) - Reference Architecture for Real-time File Processing.
