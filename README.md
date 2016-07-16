@@ -934,6 +934,7 @@ Community Repos:
 * [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS.
 * [donnemartin/dev-setup :fire::fire::fire::fire:](https://github.com/donnemartin/dev-setup) - Mac setup of various developer tools and AWS services.
 * [dtan4/terraforming :fire::fire::fire:](https://github.com/dtan4/terraforming) - Export existing resources to Terraform style (tf, tfstate).
+* [segmentio/stack :fire::fire:](https://github.com/segmentio/stack) - A set of Terraform modules for configuring production infrastructure.
 * [j2labs/microarmy :fire:](https://github.com/j2labs/microarmy) - Deploy micro instances to launch a coordinated siege.
 * [jpillora/grunt-aws :fire:](https://github.com/jpillora/grunt-aws) - Grunt interface into the Node.JS SDK.
 * [jvehent/haproxy-aws :fire:](https://github.com/jvehent/haproxy-aws) - Documentation on building a HTTPS stack with HAProxy.
