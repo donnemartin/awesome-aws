@@ -817,6 +817,7 @@ Community Repos:
 Community Repos:
 
 * [drewblas/aws-ses :fire::fire:](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
+* [mailkiq/mailkiq :fire::fire:](https://github.com/mailkiq/mailkiq) - Email Marketing Platform via Amazon SES. 
 
 ### Simple Workflow
 
