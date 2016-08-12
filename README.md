@@ -639,7 +639,7 @@ Community Repos:
 
 AWS Repos:
 
-* [logstash-output-amazon_es](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
+* [logstash-output-amazon_es :fire:](https://github.com/awslabs/logstash-output-amazon_es) - Logstash output plugin to sign and export events.
 * [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - OpsWorks Elasticsearch sample cookbook.
 
 Community Repos:
