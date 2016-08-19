@@ -1119,6 +1119,11 @@ Community Blogs:
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
+### Chat
+
+Slack Channels:
+* [AWS Experts](http://awsexperts.io)
+
 ### Twitter Influencers
 
 AWS Tweeps:
