@@ -1032,8 +1032,6 @@ Community Guides:
 
 * [Training and Certification](https://aws.amazon.com/training/)
 * [Webinars](https://aws.amazon.com/about-aws/events/)
-* [Pluralsight - AWS Developer: The Big Picture](https://www.pluralsight.com/courses/aws-developer-big-picture)
-* [Pluralsight - AWS Developer: Getting Started](https://www.pluralsight.com/courses/aws-developer-getting-started)
 
 ### Case Studies: Powered by AWS
 
