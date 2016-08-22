@@ -793,6 +793,7 @@ Community Repos:
 * [anomalizer/ngx_aws_auth :fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
 * [bloomreach/s4cmd :fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
 * [CulturalMe/meteor-slingshot :fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
+* [danilop/yas3fs :fire::fire:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 * [grippy/node-s3](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
 * [littlstar/s3renity](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
@@ -803,7 +804,6 @@ Community Repos:
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 * [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
 * [s3fs-fuse/s3fs-fuse :fire::fire::fire::fire:](https://github.com/s3fs-fuse/s3fs-fuse) - Allows Linux and Mac OS X to mount an S3 bucket via FUSE.
-* [danilop/yas3fs :fire::fire:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 * [s3tools/s3cmd :fire::fire::fire::fire:](https://github.com/s3tools/s3cmd) - CLI for managing S3 and CloudFront.
 * [schickling/git-s3 :fire:](https://github.com/schickling/git-s3) - Deploy your git repo to a bucket.
 * [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
