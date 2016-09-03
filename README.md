@@ -800,6 +800,7 @@ Community Repos:
 * [mardix/flask-cloudy :fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 * [minio/mc :fire::fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
+* [minio/minio :fire::fire::fire::fire::fire:](https://github.com/minio/minio) - Object storage server compatible with S3.
 * [mumrah/s3-multipart :fire:](https://github.com/mumrah/s3-multipart) - Parallel upload/download to S3 via Python.
 * [pgherveou/gulp-awspublish :fire::fire:](https://github.com/pgherveou/gulp-awspublish) - Gulp plugin.
 * [rlmcpherson/s3gof3r :fire::fire::fire:](https://github.com/rlmcpherson/s3gof3r) - Fast, concurrent, streaming access, includes a CLI.
