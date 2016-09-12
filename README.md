@@ -792,7 +792,7 @@ Community Repos:
 
 * [anomalizer/ngx_aws_auth :fire:](https://github.com/anomalizer/ngx_aws_auth) - Implements proxying of authenticated requests.
 * [bloomreach/s4cmd :fire::fire:](https://github.com/bloomreach/s4cmd) - S3 command line tool, faster than S3cmd for large files.
-* [CulturalMe/meteor-slingshot :fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
+* [CulturalMe/meteor-slingshot :fire::fire::fire:](https://github.com/CulturalMe/meteor-slingshot) - Upload files in meteor.
 * [danilop/yas3fs :fire::fire:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 * [grippy/node-s3](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
 * [littlstar/s3renity](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
