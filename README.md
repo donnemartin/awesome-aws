@@ -542,7 +542,7 @@ AWS Repos:
 * [aws-dynamodb-mars-json-demo](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
 * [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
-* [dynamodb-cross-region-library](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
+* [dynamodb-cross-region-library :fire:](https://github.com/awslabs/dynamodb-cross-region-library) - Cross-region replication.
 * [dynamodb-geo :fire:](https://github.com/awslabs/dynamodb-geo) - Library to create and query geospatial data.
 * [dynamodb-import-export-tool](https://github.com/awslabs/dynamodb-import-export-tool) - Import and export examples.
 * [dynamodb-online-index-violation-detector](https://github.com/awslabs/dynamodb-online-index-violation-detector) - Finds violations on an online GSI's hash key and range key.
