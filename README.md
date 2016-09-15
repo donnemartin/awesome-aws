@@ -469,7 +469,7 @@ Community Repos:
 AWS Repos:
 
 * [aws-codedeploy-agent :fire:](https://github.com/aws/aws-codedeploy-agent) - Sample agent.
-* [aws-codedeploy-plugin](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
+* [aws-codedeploy-plugin :fire:](https://github.com/awslabs/aws-codedeploy-plugin) - Jenkins plugin.
 * [aws-codedeploy-samples :fire::fire:](https://github.com/awslabs/aws-codedeploy-samples) - Samples and template scenarios.
 
 Community Repos:
