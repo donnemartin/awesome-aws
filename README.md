@@ -814,6 +814,7 @@ Community Repos:
 * [twpayne/s3-parallel-put :fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
 * [waynehoover/s3_direct_upload :fire::fire::fire:](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 * [weavejester/clj-aws-s3 :fire:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
+* [owocki/s3_disk_util :fire:](https://github.com/owocki/s3_disk_util) - S3 Disk usage (du) utility.
 
 ### SES
 
