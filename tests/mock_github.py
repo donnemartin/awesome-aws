@@ -5,7 +5,7 @@
 # Creative Commons Attribution 4.0 International License (CC BY 4.0)
 # http://creativecommons.org/licenses/by/4.0/
 
-from github3 import null
+from githubcli.lib.github3 import null
 
 
 class MockRepo(object):
