@@ -4,3 +4,4 @@ comment:
 coverage:
     ignore:
         - awesome/lib/*
+        - tests/*
