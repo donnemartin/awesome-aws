@@ -820,7 +820,7 @@ Community Repos:
 Community Repos:
 
 * [drewblas/aws-ses :fire::fire:](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
-* [microapps/MoonMail :fire::fire:](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
+* [microapps/MoonMail :fire::fire::fire:](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
 
 ### Simple Workflow
 
