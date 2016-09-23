@@ -511,7 +511,7 @@ Community Repos:
 
 AWS Repos:
 
-* [data-pipeline-samples](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
+* [data-pipeline-samples :fire:](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
 
 Community Repos:
 
@@ -893,7 +893,7 @@ Community Repos:
 
 * [AdRoll/hologram :fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
 * [alex/letsencrypt-aws :fire::fire::fire:](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
-* [cloudsploit/scans :fire:](https://github.com/cloudsploit/scans) - Detects security risks.
+* [cloudsploit/scans :fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks.
 * [iSECPartners/Scout2 :fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
 * [Netflix/bless :fire::fire::fire:](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
 * [Netflix/security_monkey :fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
