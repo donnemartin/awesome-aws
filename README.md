@@ -1239,12 +1239,6 @@ Community Conferences:
 
 *Appendix of official services, grouped by service category.*
 
-<br/>
-<p align="center">
-  <img src="http://i.imgur.com/cEyF2BL.png">
-</p>
-<br/>
-
 ### Services in Plain English
 
 * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english) - Entertaining and educational, a community contribution.
