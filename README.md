@@ -677,7 +677,7 @@ AWS Repos:
 * [amazon-kinesis-client-ruby](https://github.com/awslabs/amazon-kinesis-client-ruby) - Client Library for Ruby.
 * [amazon-kinesis-client :fire::fire:](https://github.com/awslabs/amazon-kinesis-client) Client library for Amazon Kinesis.
 * [amazon-kinesis-connectors :fire::fire:](https://github.com/awslabs/amazon-kinesis-connectors) - Libary to integrate with other AWS and non-AWS services.
-* [amazon-kinesis-data-visualization-sample](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
+* [amazon-kinesis-data-visualization-sample :fire:](https://github.com/awslabs/amazon-kinesis-data-visualization-sample) - Sample data visualization app.
 * [amazon-kinesis-learning](https://github.com/awslabs/amazon-kinesis-learning) - Learning Kinesis Development.
 * [amazon-kinesis-producer](https://github.com/awslabs/amazon-kinesis-producer) - Producer Library.
 * [amazon-kinesis-scaling-utils :fire:](https://github.com/awslabs/amazon-kinesis-scaling-utils) - Provides the ability to scale streams.
