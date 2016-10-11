@@ -285,7 +285,7 @@ Related Repos:
 
 * [Repo](https://github.com/rusoto/rusoto)
 
-*The Rust SDK is a labs project with limited docs and/or samples.*
+*The Rust SDK is a community project with limited docs and/or samples.*
 
 ### Scala SDK
 
