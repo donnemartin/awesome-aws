@@ -50,6 +50,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [PHP](#php-sdk)
     * [Python](#python-sdk)
     * [Ruby](#ruby-sdk)
+    * [Rust](#rust-sdk)
     * [Scala](#scala-sdk)
     * [Xamarin](#xamarin-sdk)
     * [Unity](#unity-sdk)
@@ -279,6 +280,12 @@ Related Repos:
 * [aws-sdk-rails :fire:](https://github.com/aws/aws-sdk-rails)
 * [appoxy/aws :fire::fire:](https://github.com/appoxy/aws)
 * [rightscale/right_aws :fire::fire:](https://github.com/rightscale/right_aws)
+
+### Rust SDK
+
+* [Repo](https://github.com/rusoto/rusoto)
+
+*The Rust SDK is a labs project with limited docs and/or samples.*
 
 ### Scala SDK
 
