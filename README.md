@@ -284,6 +284,8 @@ Related Repos:
 ### Rust SDK
 
 * [Repo](https://github.com/rusoto/rusoto)
+* [Install](https://github.com/rusoto/rusoto#installation)
+* [Docs](https://rusoto.github.io/rusoto/rusoto/index.html)
 
 *The Rust SDK is a community project with limited docs and/or samples.*
 
