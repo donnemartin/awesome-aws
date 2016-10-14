@@ -270,10 +270,10 @@ Related Repos:
 ### Ruby SDK
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby)
-* [Repo with Samples](https://github.com/awslabs/aws-ruby-sample)
-* [Install](http://docs.aws.amazon.com/AWSSdkDocsRuby/latest/DeveloperGuide/ruby-dg-setup.html)
-* [Docs](http://docs.pythonboto.org/en/latest/)
-* [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto)
+* [Repo with S3 Sample](https://github.com/awslabs/aws-ruby-sample)
+* [Install](http://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/setup-install.html)
+* [Docs](https://aws.amazon.com/documentation/sdk-for-ruby/)
+* [Samples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/)
 
 Related Repos:
 
