@@ -1024,7 +1024,7 @@ AWS Guides:
 
 Community Guides:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [Open Guide to AWS](https://github.com/open-guides/og-aws)
 
 ### Books
 
