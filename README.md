@@ -1024,7 +1024,7 @@ AWS Guides:
 
 Community Guides:
 
-* [Open Guide to AWS](https://github.com/open-guides/og-aws)
+* [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
 
 ### Books
 
