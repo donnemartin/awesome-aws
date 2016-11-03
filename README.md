@@ -316,7 +316,7 @@ Related Repos:
 
 ### .NET SDK
 
-* [Repo :fire::fire:](https://github.com/aws/aws-sdk-net)
+* [Repo :fire::fire::fire:](https://github.com/aws/aws-sdk-net)
 * [Repo with Samples](https://github.com/awslabs/aws-auto-scaling-console-sample)
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-net/)
