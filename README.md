@@ -924,7 +924,7 @@ AWS Repos:
 * [aws-mobile-sample-wif](https://github.com/awslabs/aws-mobile-sample-wif) - Samples from the AWS Mobile SDK blog.
 * [aws-mobile-self-paced-labs-samples](https://github.com/awslabs/aws-mobile-self-paced-labs-samples) - Android Snake Game from a self-paced lab.
 * [aws-quickstart](https://github.com/awslabs/aws-quickstart) - Official repository for AWS Quick Start.
-* [aws-spot-labs](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
+* [aws-spot-labs :fire:](https://github.com/awslabs/aws-spot-labs) - Best practices using AWS Spot Instances.
 * [aws-training-demo](https://github.com/awslabs/aws-training-demo) - Demos from the Technical Trainers community.
 * [java-meme-generator-sample](https://github.com/awslabs/java-meme-generator-sample) - Meme generation app from re:Invent 2012.
 * [railsconf2013-tech-demo :fire:](https://github.com/awslabs/railsconf2013-tech-demo) - Seahorse demo from RailsConf 2013.
