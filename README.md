@@ -720,6 +720,7 @@ AWS Repos:
 
 Community Repos:
 
+* [alestic/lambdash :fire:](https://github.com/alestic/lambdash) - Lambda shell - Run sh commands inside the Lambda environment.
 * [Alephbet/gimel :fire:](https://github.com/Alephbet/gimel) - Run your own A/B testing backend using Lambda.
 * [apex/apex :fire::fire::fire::fire::fire:](https://github.com/apex/apex) - Minimal AWS Lambda function manager with Go support.
 * [cloudnative/lambda-chat :fire::fire:](https://github.com/cloudnative/lambda-chat) - A chat application without servers.
