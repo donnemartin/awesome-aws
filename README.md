@@ -968,6 +968,7 @@ Community Repos:
 * [Netflix/archaius :fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API.
 * [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
+* [Netflix/chaosmonkey :fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
 * [Netflix/eureka :fire::fire::fire::fire::fire:](https://github.com/Netflix/eureka) - Service registry for resilient mid-tier load balancing and failover.
 * [Netflix/EVCache :fire::fire:](https://github.com/Netflix/EVCache) - A distributed in-memory data store.
 * [Netflix/Fenzo :fire::fire:](https://github.com/Netflix/Fenzo) - Extensible Scheduler for Mesos Frameworks.
