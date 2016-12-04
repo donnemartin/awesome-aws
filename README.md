@@ -1266,122 +1266,122 @@ Community Conferences:
 
 ### Compute Services
 
-* [AWS Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
-* [Amazon EC2 Container Service (ECS)](https://aws.amazon.com/ecs/) - Supports Docker containers on EC2 instances.
-* [Amazon Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/) - Provides scalable virtual private servers using Xen.
-* [Amazon Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
-* [Amazon Lambda](https://aws.amazon.com/lambda/) - Runs code in response to events and automatically manages EC2 instances.
+* [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
+* [EC2 Container Service (ECS)](https://aws.amazon.com/ecs/) - Supports Docker containers on EC2 instances.
+* [Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/) - Provides scalable virtual private servers using Xen.
+* [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
+* [Lambda](https://aws.amazon.com/lambda/) - Runs code in response to events and automatically manages EC2 instances.
 * [Auto Scaling](https://aws.amazon.com/autoscaling/) - Launches or terminates EC2 instances based on policies, schedules, and health checks.
-* [Amazon Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
+* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
 
 ### Networking Services
 
-* [AWS Direct Connect](https://aws.amazon.com/directconnect/) - Provides dedicated connections to AWS for faster and cheaper data throughput.
-* [Amazon Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
-* [Amazon Route 53](https://aws.amazon.com/route53/) - Provides a highly available and scalable Domain Name System (DNS) web service.
-* [Amazon Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
+* [Direct Connect](https://aws.amazon.com/directconnect/) - Provides dedicated connections to AWS for faster and cheaper data throughput.
+* [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
+* [Route 53](https://aws.amazon.com/route53/) - Provides a highly available and scalable Domain Name System (DNS) web service.
+* [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
 
 ### Enterprise Applications
 
-* [Amazon WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
-* [Amazon Workspaces Application Manager (WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
-* [Amazon WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
-* [Amazon WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
+* [WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
+* [Workspaces Application Manager (WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
+* [WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
+* [WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
 
 ### Analytics Services
 
-* [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
-* [Amazon Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
-* [Amazon Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) - Managed Elasticsearch, a popular open-source search and analytics engine.
-* [AWS Glue](https://aws.amazon.com/glue/) - Prepare and load data to data stores.
-* [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
-* [Amazon Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - Write standard SQL queries on streaming data without having to learn any new programming skills.
-* [Amazon Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
-* [Amazon Machine Learning](https://aws.amazon.com/machine-learning/) - Provides managed machine learning technology.
-* [Amazon Quicksight](https://aws.amazon.com/quicksight/) - Provides cloud-powered business intelligence for 1/10th the cost of traditional BI solutions.
-* [Amazon Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
+* [Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
+* [Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
+* [Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) - Managed Elasticsearch, a popular open-source search and analytics engine.
+* [Glue](https://aws.amazon.com/glue/) - Prepare and load data to data stores.
+* [Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
+* [Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - Write standard SQL queries on streaming data without having to learn any new programming skills.
+* [Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
+* [Machine Learning](https://aws.amazon.com/machine-learning/) - Provides managed machine learning technology.
+* [Quicksight](https://aws.amazon.com/quicksight/) - Provides cloud-powered business intelligence for 1/10th the cost of traditional BI solutions.
+* [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
 
 ### Management Tools
 
-* [Amazon CloudWatch](https://aws.amazon.com/cloudwatch/) - Provides monitoring for AWS cloud resources and applications, starting with EC2.
-* [Amazon CloudFormation](https://aws.amazon.com/cloudformation/) - Provides a file-based interface for provisioning other resources.
-* [AWS CloudTrail](https://aws.amazon.com/cloudtrail/) - Provides logs of all activity.
-* [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
-* [AWS Config](https://aws.amazon.com/config/) - Provides a detailed view of all resources.
-* [AWS Management Console (AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
-* [AWS OpsWorks](https://aws.amazon.com/opsworks/) - Provides configuration of EC2 services using Chef.
-* [AWS Service Catalog](https://aws.amazon.com/servicecatalog/) - AWS Service Catalog allows IT administrators to create, manage, and distribute portfolios of approved products to end users, who can then access the products they need in a personalized portal.
+* [CloudWatch](https://aws.amazon.com/cloudwatch/) - Provides monitoring for AWS cloud resources and applications, starting with EC2.
+* [CloudFormation](https://aws.amazon.com/cloudformation/) - Provides a file-based interface for provisioning other resources.
+* [CloudTrail](https://aws.amazon.com/cloudtrail/) - Provides logs of all activity.
+* [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
+* [Config](https://aws.amazon.com/config/) - Provides a detailed view of all resources.
+* [Management Console (AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
+* [OpsWorks](https://aws.amazon.com/opsworks/) - Provides configuration of EC2 services using Chef.
+* [Service Catalog](https://aws.amazon.com/servicecatalog/) - Service Catalog allows IT administrators to create, manage, and distribute portfolios of approved products to end users, who can then access the products they need in a personalized portal.
 
 ### Security and Identity Services
 
-* [AWS Certificate Manager](https://aws.amazon.com/certificate-manager/) - Lets you easily provision, manage, and deploy SSL/TLS certificates for use with AWS services.
-* [Amazon CloudHSM](https://aws.amazon.com/cloudhsm/) - Helps meet corporate, contractual and regulatory compliance requirements for data security by using dedicated Hardware Security Module (HSM) appliances within the AWS cloud.
-* [AWS Directory Service](https://aws.amazon.com/directoryservice/) - A managed service that allows you to connect your AWS resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud.
-* [Amazon Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - An implicit service, the authentication infrastructure used to authenticate access to the various services.
-* [Amazon Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS.
-* [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) - A managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.
-* [AWS WAF](https://aws.amazon.com/waf/) - A web application firewall service that monitors and manages CloudFront distributions.
+* [Certificate Manager](https://aws.amazon.com/certificate-manager/) - Lets you easily provision, manage, and deploy SSL/TLS certificates for use with AWS services.
+* [CloudHSM](https://aws.amazon.com/cloudhsm/) - Helps meet corporate, contractual and regulatory compliance requirements for data security by using dedicated Hardware Security Module (HSM) appliances within the AWS cloud.
+* [Directory Service](https://aws.amazon.com/directoryservice/) - A managed service that allows you to connect your resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud.
+* [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - An implicit service, the authentication infrastructure used to authenticate access to the various services.
+* [Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS.
+* [Key Management Service (KMS)](https://aws.amazon.com/kms/) - A managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.
+* [WAF](https://aws.amazon.com/waf/) - A web application firewall service that monitors and manages CloudFront distributions.
 
 ### Internet of Things Service
 
-* [AWS IoT](https://aws.amazon.com/iot/) - Enables secure, bi-directional communication between internet-connected things (such as sensors, actuators, embedded devices, or smart appliances) and the AWS cloud over MQTT and HTTP.
+* [IoT](https://aws.amazon.com/iot/) - Enables secure, bi-directional communication between internet-connected things (such as sensors, actuators, embedded devices, or smart appliances) and the AWS cloud over MQTT and HTTP.
 
 ### Mobile Services
 
-* [AWS Mobile Hub](https://aws.amazon.com/mobile/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
-* [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
-* [Amazon Cognito](https://aws.amazon.com/cognito/) - Provides user identity and data synchronization.
-* [AWS Device Farm](https://aws.amazon.com/device-farm/) - App testing service for iOS, Android and Fire OS apps on physical devices.
-* [Amazon Mobile Analytics](https://aws.amazon.com/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data.
-* [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
+* [Mobile Hub](https://aws.amazon.com/mobile/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
+* [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
+* [Cognito](https://aws.amazon.com/cognito/) - Provides user identity and data synchronization.
+* [Device Farm](https://aws.amazon.com/device-farm/) - App testing service for iOS, Android and Fire OS apps on physical devices.
+* [Mobile Analytics](https://aws.amazon.com/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data.
+* [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
 
 ### Storage and Content Delivery Services
 
-* [Amazon Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
-* [Amazon CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) for distributing objects to locations near the requester.
-* [Amazon Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
-* [Amazon Elastic File System (EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
-* [Amazon Glacier](https://aws.amazon.com/glacier/) - Provides a low-cost, long-term storage option, intended for archiving data.
-* [AWS Import/Export](https://aws.amazon.com/importexport/) - Accelerates moving large amounts of data into and out of AWS using portable storage devices for transport.
-* [AWS Storage Gateway](https://aws.amazon.com/storagegateway/) - An iSCSI block storage virtual appliance with cloud-based backup.
+* [Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
+* [CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) for distributing objects to locations near the requester.
+* [Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
+* [Elastic File System (EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
+* [Glacier](https://aws.amazon.com/glacier/) - Provides a low-cost, long-term storage option, intended for archiving data.
+* [Import/Export](https://aws.amazon.com/importexport/) - Accelerates moving large amounts of data into and out of AWS using portable storage devices for transport.
+* [Storage Gateway](https://aws.amazon.com/storagegateway/) - An iSCSI block storage virtual appliance with cloud-based backup.
 
 ### Databases
 
-* [Amazon Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL compatible relational database with improved performance.
-* [Amazon DynamoDB](https://aws.amazon.com/dynamodb/) - Provides a scalable, low-latency NoSQL online Database Service backed by SSDs.
-* [Amazon ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (Memcached, Redis).
-* [Amazon Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
-* [Amazon Relational Database Service (RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
-* [AWS Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - App that helps you convert your database schema from an Oracle or Microsoft SQL Server database, to an RDS MySQL DB instance or an Aurora DB cluster.
-* [Amazon SimpleDB](https://aws.amazon.com/simpledb/) - Allows developers to run queries on structured data.
+* [Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL compatible relational database with improved performance.
+* [DynamoDB](https://aws.amazon.com/dynamodb/) - Provides a scalable, low-latency NoSQL online Database Service backed by SSDs.
+* [ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (Memcached, Redis).
+* [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
+* [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
+* [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - App that helps you convert your database schema from an Oracle or Microsoft SQL Server database, to an RDS MySQL DB instance or an Aurora DB cluster.
+* [SimpleDB](https://aws.amazon.com/simpledb/) - Allows developers to run queries on structured data.
 
 ### Application Services
 
-* [Amazon AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
-* [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
-* [Amazon CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
-* [Amazon DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
-* [Amazon Elastic Transcoder (ETS)](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
-* [Amazon Flexible Payments Service (FPS)](https://payments.amazon.com/developer) - Provides an interface for micropayments.
-* [Amazon Simple Email Service (SES)](https://aws.amazon.com/ses/) - Provides bulk and transactional email sending.
-* [Amazon Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
-* [Amazon Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) - Provides a hosted message queue for web applications.
-* [Amazon Simple Workflow (SWF)](https://aws.amazon.com/swf/) - A workflow service for building scalable, resilient applications.
-* [AWS Step Functions](https://aws.amazon.com/step-functions/) - Coordinate components of distributed applications.
+* [AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
+* [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
+* [CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
+* [DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
+* [Elastic Transcoder (ETS)](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
+* [Flexible Payments Service (FPS)](https://payments.amazon.com/developer) - Provides an interface for micropayments.
+* [Simple Email Service (SES)](https://aws.amazon.com/ses/) - Provides bulk and transactional email sending.
+* [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
+* [Simple Queue Service (SQS)](https://aws.amazon.com/sqs/) - Provides a hosted message queue for web applications.
+* [Simple Workflow (SWF)](https://aws.amazon.com/swf/) - A workflow service for building scalable, resilient applications.
+* [Step Functions](https://aws.amazon.com/step-functions/) - Coordinate components of distributed applications.
 
 ### Developer Tools
 
-* [AWS CodeCommit](https://aws.amazon.com/documentation/codecommit/) - Hosted Git version control service.
-* [AWS CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
-* [AWS CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
-* [AWS Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
+* [CodeCommit](https://aws.amazon.com/documentation/codecommit/) - Hosted Git version control service.
+* [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
+* [CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
+* [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
 
 ### Miscellaneous Services
 
-* [Amazon Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - Provides a programmatic web service for sellers to ship items to and from Amazon using Fulfillment by Amazon.
-* [Amazon Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
-* [Amazon Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
-* [AWS Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
+* [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - Provides a programmatic web service for sellers to ship items to and from Amazon using Fulfillment by Amazon.
+* [Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
+* [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
+* [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
 
 ## Credits
 
