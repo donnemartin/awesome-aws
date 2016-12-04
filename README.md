@@ -1357,8 +1357,8 @@ Community Conferences:
 
 ### Application Services
 
-* [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
 * [Amazon AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
+* [Amazon API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
 * [Amazon CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
 * [Amazon DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
 * [Amazon Elastic Transcoder (ETS)](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
