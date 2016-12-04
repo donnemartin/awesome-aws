@@ -1378,6 +1378,7 @@ Community Conferences:
 * [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
 * [CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
 * [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
+* [X-Ray](https://aws.amazon.com/xray/) - Analyze and debug your applications.
 
 ### Miscellaneous Services
 
