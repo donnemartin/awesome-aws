@@ -1293,6 +1293,7 @@ Community Conferences:
 * [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
 * [Amazon Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
 * [Amazon Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) - Managed Elasticsearch, a popular open-source search and analytics engine.
+* [AWS Glue](https://aws.amazon.com/glue/) - Prepare and load data to data stores.
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
 * [Amazon Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - Write standard SQL queries on streaming data without having to learn any new programming skills.
 * [Amazon Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
