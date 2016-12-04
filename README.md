@@ -1290,15 +1290,15 @@ Community Conferences:
 
 ### Analytics Services
 
-* [Amazon Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
 * [AWS Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
+* [Amazon Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
 * [Amazon Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) - Managed Elasticsearch, a popular open-source search and analytics engine.
 * [Amazon Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
 * [Amazon Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - Write standard SQL queries on streaming data without having to learn any new programming skills.
 * [Amazon Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
 * [Amazon Machine Learning](https://aws.amazon.com/machine-learning/) - Provides managed machine learning technology.
-* [Amazon Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
 * [Amazon Quicksight](https://aws.amazon.com/quicksight/) - Provides cloud-powered business intelligence for 1/10th the cost of traditional BI solutions.
+* [Amazon Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
 
 ### Management Tools
 
