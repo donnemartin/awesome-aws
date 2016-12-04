@@ -1267,6 +1267,7 @@ Community Conferences:
 ### Compute Services
 
 * [Auto Scaling](https://aws.amazon.com/autoscaling/) - Launches or terminates EC2 instances based on policies, schedules, and health checks.
+* [Batch](https://aws.amazon.com/batch/) - Run batch jobs at scale.
 * [EC2 Container Service (ECS)](https://aws.amazon.com/ecs/) - Supports Docker containers on EC2 instances.
 * [EC2 Systems Manager](https://aws.amazon.com/ec2/systems-manager/) - Easily configure and manage EC2 and on-premises systems.
 * [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
