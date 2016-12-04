@@ -1312,13 +1312,13 @@ Community Conferences:
 
 ### Security and Identity Services
 
-* [Amazon Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - An implicit service, the authentication infrastructure used to authenticate access to the various services.
-* [AWS Directory Service](https://aws.amazon.com/directoryservice/) - A managed service that allows you to connect your AWS resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud.
-* [Amazon Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS.
+* [AWS Trusted Advisor](https://aws.amazon.com/documentation/aws-support/) - Helps you observe best practices by inspecting your environment for saving costs, improving system performance and reliability, and closing security gaps.
 * [Amazon CloudHSM](https://aws.amazon.com/cloudhsm/) - Helps meet corporate, contractual and regulatory compliance requirements for data security by using dedicated Hardware Security Module (HSM) appliances within the AWS cloud.
+* [AWS Directory Service](https://aws.amazon.com/directoryservice/) - A managed service that allows you to connect your AWS resources with an existing on-premises Microsoft Active Directory or to set up a new, stand-alone directory in the AWS Cloud.
+* [Amazon Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - An implicit service, the authentication infrastructure used to authenticate access to the various services.
+* [Amazon Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS.
 * [AWS Key Management Service (KMS)](https://aws.amazon.com/kms/) - A managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.
 * [AWS WAF](https://aws.amazon.com/waf/) - A web application firewall service that monitors and manages CloudFront distributions.
-* [Trusted Advisor](https://aws.amazon.com/documentation/aws-support/) - Helps you observe best practices by inspecting your environment for saving costs, improving system performance and reliability, and closing security gaps.
 
 ### Internet of Things Service
 
