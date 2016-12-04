@@ -1266,12 +1266,12 @@ Community Conferences:
 
 ### Compute Services
 
-* [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
+* [Auto Scaling](https://aws.amazon.com/autoscaling/) - Launches or terminates EC2 instances based on policies, schedules, and health checks.
 * [EC2 Container Service (ECS)](https://aws.amazon.com/ecs/) - Supports Docker containers on EC2 instances.
+* [Elastic Beanstalk](https://aws.amazon.com/elasticbeanstalk/) - Provides quick deployment and management of applications in the cloud.
 * [Elastic Compute Cloud (EC2)](http://aws.amazon.com/ec2/) - Provides scalable virtual private servers using Xen.
 * [Elastic Load Balancing (ELB)](https://aws.amazon.com/elasticloadbalancing/) - Automatically distributes incoming traffic across multiple EC2 instances.
 * [Lambda](https://aws.amazon.com/lambda/) - Runs code in response to events and automatically manages EC2 instances.
-* [Auto Scaling](https://aws.amazon.com/autoscaling/) - Launches or terminates EC2 instances based on policies, schedules, and health checks.
 * [Virtual Private Cloud (VPC)](https://aws.amazon.com/vpc/) - Creates a logically isolated set of EC2 instances which can be connected to an existing network using a VPN connection.
 
 ### Networking Services
@@ -1283,10 +1283,10 @@ Community Conferences:
 
 ### Enterprise Applications
 
-* [WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
-* [Workspaces Application Manager (WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
 * [WorkDocs](https://aws.amazon.com/workdocs/) - Provides a fully managed, secure enterprise storage and sharing service.
 * [WorkMail](https://aws.amazon.com/workmail/) - Provides managed email and calendaring service.
+* [WorkSpaces](https://aws.amazon.com/workspaces/) - Provides a cloud-based desktop experience to end-users.
+* [Workspaces Application Manager (WAM)](http://aws.amazon.com/workspaces/applicationmanager/) - Simplifies deployment and management of WorkSpaces.
 
 ### Analytics Services
 
@@ -1303,9 +1303,9 @@ Community Conferences:
 
 ### Management Tools
 
-* [CloudWatch](https://aws.amazon.com/cloudwatch/) - Provides monitoring for AWS cloud resources and applications, starting with EC2.
 * [CloudFormation](https://aws.amazon.com/cloudformation/) - Provides a file-based interface for provisioning other resources.
 * [CloudTrail](https://aws.amazon.com/cloudtrail/) - Provides logs of all activity.
+* [CloudWatch](https://aws.amazon.com/cloudwatch/) - Provides monitoring for AWS cloud resources and applications, starting with EC2.
 * [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
 * [Config](https://aws.amazon.com/config/) - Provides a detailed view of all resources.
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
@@ -1328,21 +1328,21 @@ Community Conferences:
 
 ### Mobile Services
 
-* [Mobile Hub](https://aws.amazon.com/mobile/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
 * [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
 * [Cognito](https://aws.amazon.com/cognito/) - Provides user identity and data synchronization.
 * [Device Farm](https://aws.amazon.com/device-farm/) - App testing service for iOS, Android and Fire OS apps on physical devices.
 * [Mobile Analytics](https://aws.amazon.com/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data.
+* [Mobile Hub](https://aws.amazon.com/mobile/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
 * [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
 
 ### Storage and Content Delivery Services
 
-* [Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
 * [CloudFront](https://aws.amazon.com/cloudfront/) - A content delivery network (CDN) for distributing objects to locations near the requester.
 * [Elastic Block Store (EBS)](https://aws.amazon.com/ebs/) - Provides persistent block-level storage volumes for EC2.
 * [Elastic File System (EFS)](https://aws.amazon.com/efs/) - A file storage service for EC2 instances.
 * [Glacier](https://aws.amazon.com/glacier/) - Provides a low-cost, long-term storage option, intended for archiving data.
 * [Import/Export](https://aws.amazon.com/importexport/) - Accelerates moving large amounts of data into and out of AWS using portable storage devices for transport.
+* [Simple Storage Service (S3)](https://aws.amazon.com/s3/) - Provides Web Service based storage.
 * [Storage Gateway](https://aws.amazon.com/storagegateway/) - An iSCSI block storage virtual appliance with cloud-based backup.
 
 ### Databases
@@ -1357,8 +1357,8 @@ Community Conferences:
 
 ### Application Services
 
-* [AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
 * [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
+* [AppStream](https://aws.amazon.com/appstream/) - Flexible, low-latency streaming service for apps and games.
 * [CloudSearch](https://aws.amazon.com/cloudsearch/) - Provides basic full-text search and indexing of textual content.
 * [DevPay](https://aws.amazon.com/devpay/) - Provides billing and account management.
 * [Elastic Transcoder (ETS)](https://aws.amazon.com/elastictranscoder/) - Provides video transcoding of S3 hosted videos.
@@ -1380,8 +1380,8 @@ Community Conferences:
 
 * [Fulfillment Web Service](https://aws.amazon.com/about-aws/whats-new/2008/03/19/announcing-amazon-fulfillment-web-service/) - Provides a programmatic web service for sellers to ship items to and from Amazon using Fulfillment by Amazon.
 * [Mechanical Turk](https://www.mturk.com/mturk/welcome) - Manages small units of work distributed among many persons.
-* [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 * [Partner Network (APN)](https://aws.amazon.com/partners/) - Provides partners with the technical information and sales and marketing support to increase business opportunities.
+* [Product Advertising API](http://docs.aws.amazon.com/AWSECommerceService/latest/GSG/Welcome.html) - Provides access to product data and electronic commerce functionality.
 
 ## Credits
 
