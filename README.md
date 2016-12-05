@@ -1301,9 +1301,12 @@ Community Conferences:
 * [Kinesis](https://aws.amazon.com/kinesis/) - Provides real-time data processing over large, distributed data streams.
 * [Kinesis Analytics](https://aws.amazon.com/kinesis/analytics/) - Write standard SQL queries on streaming data without having to learn any new programming skills.
 * [Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
-* [Machine Learning](https://aws.amazon.com/machine-learning/) - Provides managed machine learning technology.
 * [Quicksight](https://aws.amazon.com/quicksight/) - Provides cloud-powered business intelligence for 1/10th the cost of traditional BI solutions.
 * [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
+
+### Artificial Intelligence
+
+* [Machine Learning](https://aws.amazon.com/machine-learning/) - Provides managed machine learning technology.
 
 ### Management Tools
 
