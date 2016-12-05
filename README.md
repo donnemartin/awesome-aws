@@ -1337,6 +1337,7 @@ Community Conferences:
 * [Device Farm](https://aws.amazon.com/device-farm/) - App testing service for iOS, Android and Fire OS apps on physical devices.
 * [Mobile Analytics](https://aws.amazon.com/mobileanalytics/) - Service for collecting, visualizing, and understanding app usage data.
 * [Mobile Hub](https://aws.amazon.com/mobile/) - Provides an integrated console that helps you build, test, and monitor your mobile apps.
+* [Pinpoint](https://aws.amazon.com/pinpoint/) - Targeted push notifications for mobile apps.
 * [Simple Notification Service (SNS)](https://aws.amazon.com/sns/) - Provides a hosted multi-protocol "push" messaging for applications.
 
 ### Storage and Content Delivery Services
