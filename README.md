@@ -1293,6 +1293,7 @@ Community Conferences:
 
 ### Analytics Services
 
+* [Athena](https://aws.amazon.com/athena/) - Query data on S3 instantly.
 * [Data Pipeline](https://aws.amazon.com/datapipeline/) - Provides workload management by processing and moving data between services.
 * [Elastic MapReduce (EMR)](http://aws.amazon.com/elasticmapreduce/) - Hosts a Hadoop and Spark framework running on EC2 and S3.
 * [Elasticsearch Service (ES)](https://aws.amazon.com/elasticsearch-service/) - Managed Elasticsearch, a popular open-source search and analytics engine.
