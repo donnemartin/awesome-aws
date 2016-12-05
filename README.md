@@ -1324,6 +1324,7 @@ Community Conferences:
 * [Identity and Access Management (IAM)](https://aws.amazon.com/iam/) - An implicit service, the authentication infrastructure used to authenticate access to the various services.
 * [Inspector](https://aws.amazon.com/inspector/) - An automated security assessment service that helps improve the security and compliance of applications deployed on AWS.
 * [Key Management Service (KMS)](https://aws.amazon.com/kms/) - A managed service that makes it easy for you to create and control the encryption keys used to encrypt your data.
+* [Shield](https://aws.amazon.com/shield/) - Managed DDoS Protection.
 * [WAF](https://aws.amazon.com/waf/) - A web application firewall service that monitors and manages CloudFront distributions.
 
 ### Internet of Things Service
