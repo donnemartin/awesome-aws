@@ -1313,6 +1313,7 @@ Community Conferences:
 * [Config](https://aws.amazon.com/config/) - Provides a detailed view of all resources.
 * [Management Console (AWS Console)](https://aws.amazon.com/console/) - A web-based interface to manage all services.
 * [OpsWorks](https://aws.amazon.com/opsworks/) - Provides configuration of EC2 services using Chef.
+* [Personal Health Dashboard](https://aws.amazon.com/premiumsupport/phd/) - Your personalized view of service health.
 * [Service Catalog](https://aws.amazon.com/servicecatalog/) - Service Catalog allows IT administrators to create, manage, and distribute portfolios of approved products to end users, who can then access the products they need in a personalized portal.
 
 ### Security and Identity Services
