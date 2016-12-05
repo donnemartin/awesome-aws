@@ -1309,6 +1309,7 @@ Community Conferences:
 * [Lex](https://aws.amazon.com/lex/) - Build conversational interfaces through voice or text.
 * [Machine Learning](https://aws.amazon.com/machine-learning/) - Provides managed machine learning technology.
 * [Polly](https://aws.amazon.com/polly/) - Turn text into lifelike speech.
+* [Rekognition](https://aws.amazon.com/rekognition/) - Deep learning-based image analysis.
 
 ### Management Tools
 
