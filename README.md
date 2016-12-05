@@ -1306,6 +1306,7 @@ Community Conferences:
 
 ### Artificial Intelligence
 
+* [Lex](https://aws.amazon.com/lex/) - Build conversational interfaces through voice or text.
 * [Machine Learning](https://aws.amazon.com/machine-learning/) - Provides managed machine learning technology.
 
 ### Management Tools
