@@ -1374,6 +1374,7 @@ Community Conferences:
 
 ### Developer Tools
 
+* [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
 * [CodeCommit](https://aws.amazon.com/documentation/codecommit/) - Hosted Git version control service.
 * [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
 * [CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
