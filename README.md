@@ -120,6 +120,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Networking](#networking-services)
     * [Enterprise Applications](#enterprise-applications)
     * [Analytics](#analytics-services)
+    * [Artificial Intelligence](#artificial-intelligence)
     * [Management Tools](#management-tools)
     * [Security and Identity](#security-and-identity-services)
     * [Internet of Things](#internet-of-things-service)
