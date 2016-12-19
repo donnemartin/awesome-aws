@@ -921,7 +921,7 @@ Community Repos:
 * [cloudsploit/scans :fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks.
 * [iSECPartners/Scout2 :fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
 * [Netflix/bless :fire::fire::fire:](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
-* [Netflix/security_monkey :fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
+* [Netflix/security_monkey :fire::fire::fire::fire:](https://github.com/Netflix/security_monkey) - Monitors policy changes and alerts on insecure configurations.
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 
 ### Accompanying Repos
