@@ -748,7 +748,7 @@ Community Repos:
 
 AWS Repos:
 
-* [machine-learning-samples :fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
+* [machine-learning-samples :fire::fire::fire:](https://github.com/awslabs/machine-learning-samples) - Sample apps.
 
 Community Repos:
 
