@@ -193,7 +193,7 @@ Related Repos:
 * [Repo for Arduino](https://github.com/awslabs/aws-sdk-arduino)
 * [Repo for C :fire::fire:](https://github.com/aws/aws-iot-device-sdk-embedded-C)
 * [Repo for JavaScript :fire::fire:](https://github.com/aws/aws-iot-device-sdk-js)
-* [Repo for Arduino Yun](https://github.com/aws/aws-iot-device-sdk-arduino-yun/)
+* [Repo for Arduino Yun :fire:](https://github.com/aws/aws-iot-device-sdk-arduino-yun/)
 * [Docs](http://docs.aws.amazon.com/iot/latest/developerguide/what-is-aws-iot.html)
 
 *The IoT SDK is a labs project with limited docs and/or samples.*
