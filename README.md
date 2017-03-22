@@ -183,7 +183,7 @@ Related Repos:
 ### iOS SDK
 
 * [Repo :fire::fire::fire:](https://github.com/aws/aws-sdk-ios)
-* [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples)
+* [Repo with Samples :fire::fire::fire:](https://github.com/awslabs/aws-sdk-ios-samples)
 * [Install](http://sdk-for-ios.amazonwebservices.com/latest/aws-ios-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ios/)
 * [Learn More](https://aws.amazon.com/mobile/sdk/)
