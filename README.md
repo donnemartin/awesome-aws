@@ -820,7 +820,7 @@ Community Repos:
 * [danilop/yas3fs :fire::fire:](https://github.com/danilop/yas3fs) - Yet Another S3-backed File System, inspired by s3fs.
 * [grippy/node-s3](https://github.com/grippy/node-s3) - Node.js app to manage buckets.
 * [kahing/goofys :fire::fire::fire:](https://github.com/kahing/goofys) -  a Filey System for Amazon S3 written in Go.
-* [littlstar/s3renity :fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
+* [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 * [mardix/flask-cloudy :fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
