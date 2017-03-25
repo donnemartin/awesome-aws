@@ -1083,6 +1083,7 @@ Community Guides:
 * [Expedia](https://aws.amazon.com/solutions/case-studies/expedia/?pg=main-customer-success-page)
 * [Foursquare](https://aws.amazon.com/solutions/case-studies/foursquare/?pg=main-customer-success-page)
 * [IMDb](https://aws.amazon.com/solutions/case-studies/imdb/)
+* [Instrumental](https://instrumentalapp.com/blog/aws-kinesis/) - Deep-dive into Kinesis as a queue system
 * [Intuit](https://aws.amazon.com/solutions/case-studies/soasta-intuit/)
 * [Johnson & Johnson](https://aws.amazon.com/solutions/case-studies/johnson-and-johnson/)
 * [Lionsgate](https://aws.amazon.com/solutions/case-studies/lionsgate/?pg=main-customer-success-page)
