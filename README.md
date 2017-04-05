@@ -630,7 +630,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [broadside](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications.
 
 ### Elastic File System
 
