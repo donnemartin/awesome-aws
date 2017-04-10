@@ -796,8 +796,8 @@ AWS Repos:
 
 Community Repos:
 
-* [LumosLab/aleph](https://github.com/lumoslabs/aleph) - A full featured web application for writing, running, and revision tracking.  Has traction outside at other notable companies.
-of redshift queries.  Has some visualization support as well.
+* [LumosLab/aleph](https://github.com/lumoslabs/aleph) - A full featured web application for writing and running Redshift
+queries. Supports revision tracking of queries and has basic visualization support.
 * [getredash/redash :fire::fire::fire::fire::fire:](https://github.com/getredash/redash/) - A web application that allows to easily query an existing database, share the dataset and visualize it in different ways. Initially was developed to work with Redshift, and has great support for it.
 * [everythingMe/redshift_console](https://github.com/EverythingMe/redshift_console) -  A simple tool to monitor and manage a Redshift cluster. The first release has basic tools to monitor running queries, WLM queue and your tables/schemas.
 
