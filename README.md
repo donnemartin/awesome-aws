@@ -631,6 +631,7 @@ AWS Repos:
 Community Repos:
 
 * [Lumoslabs/broadside](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications.
+* [codesuki/ecs-nginx-proxy](https://github.com/codesuki/ecs-nginx-proxy) - Reverse proxy for ECS containers. Useful for Continuous Integration.
 
 ### Elastic File System
 
