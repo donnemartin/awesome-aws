@@ -1067,6 +1067,7 @@ Community Guides:
 
 * [Training and Certification](https://aws.amazon.com/training/)
 * [Webinars](https://aws.amazon.com/about-aws/events/)
+* [Manning liveVideo - AWS in Motion](https://www.manning.com/livevideo/aws-in-motion)
 
 ### Case Studies: Powered by AWS
 
