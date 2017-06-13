@@ -1048,6 +1048,7 @@ Community Guides:
 
 * Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 * AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo](https://github.com/danilop/AWS_Lambda_in_Action)
+* Learn Amazon Web Services in a Month of Lunches [Manning](https://www.manning.com/books/learn-amazon-web-services-in-a-month-of-lunches) or [Amazon.com](https://www.amazon.com/gp/product/1617294446/)
 
 ### Whitepapers
 
