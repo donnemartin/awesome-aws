@@ -200,7 +200,7 @@ Related Repos:
 
 ### Java SDK
 
-* [Repo :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java)
+* [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-java)
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-java-sample)
 * [Install](http://sdk-for-java.amazonwebservices.com/latest/aws-java-sdk.zip)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-java/)
