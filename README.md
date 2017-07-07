@@ -919,7 +919,7 @@ AWS Repos:
 
 Community Repos:
 
-* [AdRoll/hologram :fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
+* [AdRoll/hologram :fire::fire::fire:](https://github.com/AdRoll/hologram) - Easy, painless credentials on developer laptops.
 * [alex/letsencrypt-aws :fire::fire::fire:](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
 * [cloudsploit/scans :fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks.
 * [iSECPartners/Scout2 :fire::fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
