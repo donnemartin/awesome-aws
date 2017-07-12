@@ -525,7 +525,7 @@ Community Repos:
 
 AWS Repos:
 
-* [data-pipeline-samples :fire:](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
+* [data-pipeline-samples :fire::fire:](https://github.com/awslabs/data-pipeline-samples) - Sample pipelines.
 
 Community Repos:
 
