@@ -437,6 +437,7 @@ Community Repos:
 
 * [bazaarvoice/cloudformation-ruby-dsl :fire:](https://github.com/bazaarvoice/cloudformation-ruby-dsl) - Ruby DSL for creating templates.
 * [beaknit/cform](https://github.com/beaknit/cform) - SublimeText plugin.
+* [cloudreach/sceptre] :fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
 * [peterkh/cumulus :fire:](https://github.com/peterkh/cumulus) - Manages stacks.
 * [envato/stack_master :fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
