@@ -520,7 +520,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+* [capeless/warrant](https://github.com/capless/warrant) - Python library for using AWS Cognito. 
 
 ### Data Pipeline
 
