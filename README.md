@@ -297,7 +297,7 @@ Related Repos:
 Related Repos:
 
 * [atlassian/aws-scala](https://bitbucket.org/atlassian/aws-scala)
-* [seratch/AWScala :fire::fire:](https://github.com/seratch/AWScala)
+* [seratch/AWScala :fire::fire::fire:](https://github.com/seratch/AWScala)
 
 *The Scala SDK is a labs project with limited docs and/or samples.*
 
