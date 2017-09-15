@@ -746,6 +746,7 @@ Community Repos:
 * [nficano/python-lambda :fire::fire:](https://github.com/nficano/python-lambda) - A toolkit for developing and deploying serverless Python code in Lambda.
 * [serverless/serverless :fire::fire::fire::fire::fire:](https://github.com/serverless/serverless) The Serverless Application Framework (formerly JAWS).
 * [Tim-B/grunt-aws-lambda :fire::fire:](https://github.com/Tim-B/grunt-aws-lambda) - Grunt plugin.
+* [luisfarzati/docker-lambda-api-server](https://github.com/luisfarzati/docker-lambda-api-server) Run a local Lambda server to run your functions locally and transparently using the AWS SDK or Lambda REST API.
 
 ### Machine Learning
 
