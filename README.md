@@ -1051,6 +1051,7 @@ Community Guides:
 ### Books
 
 * Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
+* Amazon Web Services in Action, Second Edition [Manning](https://www.manning.com/books/amazon-web-services-in-action-second-edition)
 * AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire:](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ### Whitepapers
