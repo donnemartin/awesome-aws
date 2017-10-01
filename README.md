@@ -775,7 +775,7 @@ AWS Repos:
 * [opsworks-attribute-customization](https://github.com/awslabs/opsworks-attribute-customization) - Attribute customization example.
 * [opsworks-capistrano](https://github.com/awslabs/opsworks-capistrano) - Capistrano with instances.
 * [opsworks-cloudwatch-logs-cookbooks](https://github.com/awslabs/opsworks-cloudwatch-logs-cookbooks) - CloudWatch sample cookbook.
-* [opsworks-cookbooks :fire::fire::fire:](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks.
+* [opsworks-cookbooks :fire::fire::fire::fire:](https://github.com/aws/opsworks-cookbooks) - Chef Cookbooks.
 * [opsworks-demo-php-photo-share-app](https://github.com/awslabs/opsworks-demo-php-photo-share-app) - Simple PHP photo share app.
 * [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
 * [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
