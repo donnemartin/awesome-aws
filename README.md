@@ -587,7 +587,7 @@ AWS Repos:
 * [eb-node-express-signup](https://github.com/awslabs/eb-node-express-signup) - Express framework and Bootstrap Node.js sample app.
 * [eb-node-express](https://github.com/awslabs/eb-node-express) - Sample app referenced in the Developer Guide.
 * [eb-py-flask-signup-worker](https://github.com/awslabs/eb-py-flask-signup-worker) - Python app that illustrates worker roles.
-* [eb-py-flask-signup :fire:](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
+* [eb-py-flask-signup :fire::fire:](https://github.com/awslabs/eb-py-flask-signup) - Python signup form app with Flask and Bootstrap.
 * [eb-python-flask](https://github.com/awslabs/eb-python-flask) - Simple Python and Flask app.
 * [eb-wif-sample](https://github.com/awslabs/eb-wif-sample) - Sample login app with Web Identity Federation.
 
