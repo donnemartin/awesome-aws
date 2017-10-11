@@ -653,6 +653,7 @@ AWS Repos:
 Community Repos:
 
 * [Yelp/mrjob :fire::fire::fire::fire::fire:](https://github.com/Yelp/mrjob) - Run MapReduce jobs on Hadoop or EMR.
+* [Axibase Time Series Database :fire:](https://github.com/axibase/atsd/blob/master/installation/aws-emr-s3.md) - Time series database supported on AWS EMR S3
 
 ### Elastic Search
 
