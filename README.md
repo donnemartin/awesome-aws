@@ -1053,6 +1053,8 @@ Community Guides:
 
 * Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 * AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* [Cloud Native Applications](https://www.manning.com/books/cloud-native-applications) - Free collection of hand-picked chapters presenting five topics that will give you insights into the world of cloud computing, selected by the authors of Amazon Web Services in Action.
+* [Exploring Cloud Computing](https://www.manning.com/books/exploring-cloud-computing) - Free collection of hand-picked chapters, selected by the authors of Amazon Web Services in Action, which explore what cloud services have to offer and insights to help you get started.
 
 ### Whitepapers
 
