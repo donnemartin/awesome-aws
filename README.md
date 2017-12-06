@@ -553,7 +553,7 @@ AWS Repos:
 * [aws-dotnet-session-provider](https://github.com/aws/aws-dotnet-session-provider) - A session state provider for ASP.NET apps.
 * [aws-dotnet-trace-listener](https://github.com/aws/aws-dotnet-trace-listener) - A trace listener for System.Diagnostics that can be used to log events.
 * [aws-dynamodb-encryption-java](https://github.com/awslabs/aws-dynamodb-encryption-java) - Encryption Client for Java.
-* [aws-dynamodb-examples](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
+* [aws-dynamodb-examples :fire:](https://github.com/awslabs/aws-dynamodb-examples) - Samples using the Java SDK.
 * [aws-dynamodb-mars-json-demo](https://github.com/awslabs/aws-dynamodb-mars-json-demo) - Stores and indexes NASA JPL Mars images.
 * [aws-dynamodb-session-tomcat](https://github.com/aws/aws-dynamodb-session-tomcat) - Session store for Apache Tomcat.
 * [aws-sessionstore-dynamodb-ruby](https://github.com/aws/aws-sessionstore-dynamodb-ruby) - Handles sessions for Ruby web apps.
