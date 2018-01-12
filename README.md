@@ -443,6 +443,7 @@ Community Repos:
 * [envato/stack_master :fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - CLI for stack management.
 * [sparkleformation/sparkle_formation :fire:](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
+* [zebradil/aws-custom-resources](https://github.com/zebradil/aws-custom-resources) - Collection of custom resources (implemented with YAML and Python).
 
 
 ### CloudSearch
