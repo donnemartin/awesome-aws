@@ -233,8 +233,8 @@ Related Repos:
 
 ### Perl SDK
 
-* [Repo](https://github.com/pplu/aws-sdk-perl)
-* [Repo with Samples](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
+* [Repo :fire:](https://github.com/pplu/aws-sdk-perl)
+* [Repo with Samples :fire:](https://github.com/pplu/aws-sdk-perl/tree/master/examples)
 * [Install](https://github.com/pplu/aws-sdk-perl#installation)
 * [Docs](https://metacpan.org/pod/Paws)
 * [Learn More](https://metacpan.org/pod/Paws)
