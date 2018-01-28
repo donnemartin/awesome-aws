@@ -284,7 +284,7 @@ Related Repos:
 
 ### Rust SDK
 
-* [Repo :fire::fire:](https://github.com/rusoto/rusoto)
+* [Repo :fire::fire::fire:](https://github.com/rusoto/rusoto)
 * [Install](https://github.com/rusoto/rusoto#installation)
 * [Docs](https://rusoto.github.io/rusoto/rusoto/index.html)
 
