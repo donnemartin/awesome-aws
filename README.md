@@ -628,6 +628,7 @@ AWS Repos:
 * [lambda-ecs-worker-pattern :fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
 * [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
 * [service-discovery-ecs-consul](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
+* [ecs-refarch-continuous-deployment :fire::fire:](https://github.com/awslabs/ecs-refarch-continuous-deployment) - Reference Architecture for continuous deployment to ECS using CodePipeline.
 
 Community Repos:
 
