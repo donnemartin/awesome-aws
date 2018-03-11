@@ -1168,6 +1168,7 @@ Community Blogs:
 * [Things I Like...](http://jeff-barr.com/) - Jeff Barr, AWS Chief Evangelist.
 * [Netflix Tech Blog](http://techblog.netflix.com/)
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
+* [AWS Geek](https://www.awsgeek.com/)
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Twitter Influencers
@@ -1194,6 +1195,7 @@ Community Tweeps:
 * [@esh](https://twitter.com/esh)
 * [@garnaat](https://twitter.com/garnaat)
 * [@quinnypig](https://twitter.com/quinnypig)
+* [@awsgeek](https://twitter.com/awsgeek)
 
 ### Facebook Pages
 
