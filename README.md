@@ -719,7 +719,7 @@ Community Repos:
 AWS Repos:
 
 * [amazon-elasticsearch-lambda-samples :fire::fire:](https://github.com/awslabs/amazon-elasticsearch-lambda-samples) - Data ingestion for Elasticsearch from S3 and Kinesis.
-* [awslabs/aws-sam-local :fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - CLI tool for local development and testing of Serverless applications.
+* [awslabs/aws-sam-local :fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - CLI tool for local development and testing of Serverless applications.
 * [aws-lambda-go :fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
 * [aws-lambda-java-libs :fire:](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
 * [aws-lambda-redshift-loader :fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
