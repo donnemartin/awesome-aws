@@ -216,7 +216,6 @@ Related Repos:
 
 Related Repos:
 
-* [aws/aws-amplify :fire::fire::fire::fire::fire:](https://github.com/aws/aws-amplify)
 * [chilts/awssum :fire::fire:](https://github.com/chilts/awssum)
 * [mirkokiefer/aws-lib :fire::fire::fire:](https://github.com/mirkokiefer/aws-lib)
 * [SaltwaterC/aws2js :fire::fire:](https://github.com/SaltwaterC/aws2js) 
