@@ -654,7 +654,7 @@ Community Repos:
 
 AWS Repos:
 
-* [emr-bootstrap-actions :fire::fire:](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
+* [emr-bootstrap-actions :fire::fire::fire:](https://github.com/awslabs/emr-bootstrap-actions) - Sample bootstrap actions.
 * [emr-sample-apps](https://github.com/awslabs/emr-sample-apps) - Sample apps.
 
 Community Repos:
