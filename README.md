@@ -639,6 +639,7 @@ AWS Repos:
 Community Repos:
 
 * [Lumoslabs/broadside](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications.
+* [segersniels/ecr-promote :fire:](https://github.com/segersniels/ecr-promote) - CLI tool to easily promote ECR images between environments by selecting CircleCI builds.
 
 ### Elastic File System
 
