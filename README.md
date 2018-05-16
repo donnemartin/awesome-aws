@@ -323,7 +323,7 @@ Related Repos:
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-net/)
 * [Learn More](https://aws.amazon.com/sdk-for-net/)
-* [Samples](https://github.com/awslabs/aws-sdk-net-samples)
+* [Samples :fire:](https://github.com/awslabs/aws-sdk-net-samples)
 
 ## Command Line Tools
 
