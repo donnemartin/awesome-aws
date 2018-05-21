@@ -857,7 +857,7 @@ Community Repos:
 * [tongwang/s3fs-c :fire:](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
 * [twpayne/s3-parallel-put :fire::fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
 * [waynehoover/s3_direct_upload :fire::fire::fire:](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
-* [weavejester/clj-aws-s3 :fire::fire:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
+* [weavejester/clj-aws-s3 :fire:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
 
 ### SES
 
