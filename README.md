@@ -209,7 +209,7 @@ Related Repos:
 ### JavaScript SDK
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-js)
-* [Repo with Samples :fire:](https://github.com/awslabs/aws-nodejs-sample)
+* [Repo with Samples :fire::fire:](https://github.com/awslabs/aws-nodejs-sample)
 * [Install](http://docs.aws.amazon.com/AWSJavaScriptSDK/guide/node-intro.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-javascript/)
 * [Learn More](https://aws.amazon.com/sdk-for-node-js/)
