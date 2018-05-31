@@ -63,7 +63,6 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Visual Studio Toolkit](#visual-studio-toolkit)
 * [Open Source Repos](#open-source-repos)
     * [API Gateway](#api-gateway)
-    * [AppStream](#appstream)
     * [CLI](#cli)
     * [CloudFormation](#cloudformation)
     * [CloudSearch](#cloudsearch)
@@ -392,18 +391,6 @@ AWS Repos:
 * [api-gateway-secure-pet-store :fire::fire:](https://github.com/awslabs/api-gateway-secure-pet-store) - Cognito credentials through Lambda.
 * [aws-apigateway-sdk-java](https://github.com/awslabs/aws-apigateway-sdk-java) - SDK for Java.
 * [aws-apigateway-swagger-importer :fire::fire:](https://github.com/awslabs/aws-apigateway-importer) - Tools to work with Swagger.
-
-Community Repos:
-
-* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
-
-### AppStream
-
-AWS Repos:
-
-* [amazon-appstream-net](https://github.com/awslabs/amazon-appstream-net) - Bindings to the native AppStream API.
-* [amazon-appstream-sample-entitlement-service](https://github.com/awslabs/amazon-appstream-sample-entitlement-service) - Session management, cognito integration, and web UI.
-* [aws-appstream-sdk-java](https://github.com/awslabs/aws-appstream-sdk-java) - SDK for Java.
 
 Community Repos:
 
