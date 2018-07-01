@@ -258,7 +258,7 @@ Related Repos:
 ### Python SDK
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
-* [Repo with Samples](https://github.com/awslabs/aws-python-sample)
+* [Repo with Samples :fire:](https://github.com/awslabs/aws-python-sample)
 * [Install](http://github.com/boto/boto#installation)
 * [Docs](http://docs.pythonboto.org/en/latest/)
 * [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto)
