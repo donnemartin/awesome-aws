@@ -251,7 +251,7 @@ Related Repos:
 
 Related Repos:
 
-* [aws-sdk-php-laravel :fire::fire::fire:](https://github.com/aws/aws-sdk-php-laravel)
+* [aws-sdk-php-laravel :fire::fire::fire::fire:](https://github.com/aws/aws-sdk-php-laravel)
 * [aws-sdk-php-silex](https://github.com/aws/aws-sdk-php-silex)
 * [aws-sdk-php-zf2](https://github.com/aws/aws-sdk-php-zf2)
 
