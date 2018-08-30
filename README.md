@@ -1048,7 +1048,7 @@ AWS Guides:
 * [Hosting a .NET Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
 * [Hosting a Static Website](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
 * [Quick Start Deployment Guides](https://aws.amazon.com/documentation/quickstart/)
-
+* [Production-Ready Serverless](https://github.com/donnemartin/awesome-aws)
 Community Guides:
 
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
