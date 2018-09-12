@@ -511,7 +511,7 @@ AWS Repos:
 
 Community Repos:
 
-* [capeless/warrant :fire:](https://github.com/capless/warrant) - Python library for using Cognito.
+* [capeless/warrant :fire::fire:](https://github.com/capless/warrant) - Python library for using Cognito.
 
 ### Data Pipeline
 
