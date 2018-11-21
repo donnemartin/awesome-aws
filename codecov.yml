@@ -1,0 +1,7 @@
+comment:
+    layout: header, changes, diff
+
+coverage:
+    ignore:
+        - awesome/lib/*
+        - tests/*
