@@ -507,7 +507,7 @@ AWS Repos:
 * [amazon-cognito-ios](https://github.com/aws/amazon-cognito-ios) - Sync SDK for iOS.
 * [amazon-cognito-js :fire:](https://github.com/aws/amazon-cognito-js) - Sync SDK for JavaScript.
 * [amazon-cognito-streams-sample](https://github.com/awslabs/amazon-cognito-streams-sample) - Consuming Streams sample.
-* [cognito-sample-nodejs](https://github.com/awslabs/cognito-sample-nodejs) - Sample App for Node.js.
+* [cognito-sample-nodejs :fire:](https://github.com/awslabs/cognito-sample-nodejs) - Sample App for Node.js.
 
 Community Repos:
 
