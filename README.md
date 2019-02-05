@@ -622,6 +622,7 @@ AWS Repos:
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
 * [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
 * [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
+* [CI/CD Pipeline with AWS ECS Fargate, Node.js and GitHub Actions](https://dtr.ee/2DURIVu) - Building a dev pipeline using GitHub Actions, Node.js, and AWS ECS Fargate.
 
 Community Repos:
 
