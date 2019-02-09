@@ -495,7 +495,7 @@ AWS Repos:
 
 Community Repos:
 
-* [Stelligent/mu :fire::fire:](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
+* [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Cognito
 
