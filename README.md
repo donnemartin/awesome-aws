@@ -1056,6 +1056,7 @@ AWS Guides:
 Community Guides:
 
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
+* [Automatically generated glossary of services](https://www.aws-glossary.info)
 
 ### Books
 
