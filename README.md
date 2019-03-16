@@ -227,7 +227,7 @@ Related Repos:
 
 Related Repos:
 
-* [aristidb/aws :fire:](https://github.com/aristidb/aws)
+* [aristidb/aws :fire::fire:](https://github.com/aristidb/aws)
 
 *The Haskell SDK is a community project with limited docs and/or samples.*
 
