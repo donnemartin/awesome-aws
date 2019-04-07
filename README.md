@@ -415,6 +415,7 @@ Community Repos:
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
 * [99designs/aws-vault :fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
+* [marceloboeira/awsudo](https://github.com/marceloboeira/awsudo) - sudo-like behavior for role assumed access on AWS accounts.
 
 ### CloudFormation
 
