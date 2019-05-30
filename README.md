@@ -260,7 +260,7 @@ Related Repos:
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/boto/boto3)
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-python-sample)
 * [Install](http://github.com/boto/boto#installation)
-* [Docs](http://docs.pythonboto.org/en/latest/)
+* [Docs](https://boto3.amazonaws.com/v1/documentation/api/latest/index.html)
 * [Learn More](http://github.com/boto/boto/blob/develop/README.rst#boto)
 
 Related Repos:
