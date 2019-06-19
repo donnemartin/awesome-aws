@@ -680,6 +680,7 @@ Community Repos:
 
 Community Repos:
 
+* [numblr/glaciertools](https://github.com/numblr/glaciertools) - Simple bash scripts on top of aws-cli for multipart uploads to Glacier.
 * [vsespb/mt-aws-glacier :fire::fire:](https://github.com/vsespb/mt-aws-glacier) - Perl Multithreaded Multipart sync to Glacier.
 
 ### Kinesis
