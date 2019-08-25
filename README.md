@@ -993,7 +993,7 @@ Community Repos:
 * [meducation/propono :fire::fire:](https://github.com/meducation/propono) - Easy-to-use pub/sub in Ruby.
 * [mozilla/awsbox :fire::fire::fire:](https://github.com/mozilla/awsbox) - A featherweight PaaS on top of EC2 for deploying node apps.
 * [Netflix/aminator :fire::fire::fire:](https://github.com/Netflix/aminator) - A tool for creating EBS AMIs.
-* [Netflix/archaius :fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API.
+* [Netflix/archaius :fire::fire::fire::fire::fire:](https://github.com/Netflix/archaius) - Library for configuration management API.
 * [Netflix/asgard :fire::fire::fire::fire::fire:](https://github.com/Netflix/asgard) - Web interface for application deployments and cloud management.
 * [Netflix/aws-autoscaling :fire::fire:](https://github.com/Netflix/aws-autoscaling) - Tools for using auto scaling and documentation best practices.
 * [Netflix/chaosmonkey :fire::fire::fire::fire::fire:](https://github.com/Netflix/chaosmonkey) - Resiliency tool that helps applications tolerate random instance failures.
