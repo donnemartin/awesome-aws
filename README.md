@@ -716,7 +716,7 @@ AWS Repos:
 * [awslabs/aws-sam-local :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-sam-local) - CLI tool for local development and testing of Serverless applications.
 * [aws-lambda-go :fire::fire::fire::fire::fire:](https://github.com/aws/aws-lambda-go) - Libraries, samples and tools to help Go developers develop Lambda functions.
 * [aws-lambda-java-libs :fire::fire:](https://github.com/aws/aws-lambda-java-libs) - Official mirror for interface definitions and helper classes.
-* [aws-lambda-redshift-loader :fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
+* [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Redshift loader.
 * [chalice :fire::fire::fire::fire::fire:](https://github.com/awslabs/chalice) - Python Serverless Microframework.
 * [create-thumbnails-lambda](https://github.com/awslabs/create-thumbnails-lambda) - Uses the grunt-aws-lambda plugin to help you develop and test.
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
@@ -797,7 +797,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-lambda-redshift-loader :fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
+* [aws-lambda-redshift-loader :fire::fire::fire:](https://github.com/awslabs/aws-lambda-redshift-loader) - Lambda database loader.
 * [amazon-redshift-utils :fire::fire::fire::fire:](https://github.com/awslabs/amazon-redshift-utils) - Applies optimal Column Encoding to existing Tables.
 
 Community Repos:
