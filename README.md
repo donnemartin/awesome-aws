@@ -223,7 +223,7 @@ Related Repos:
 ### Haskell SDK
 
 * [Repo :fire::fire:](https://github.com/brendanhay/amazonka)
-* [Docs](http://brendanhay.nz/amazonka-doc/)
+* [Docs](http://hackage.haskell.org/packages/#cat:AWS)
 
 Related Repos:
 
