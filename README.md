@@ -847,7 +847,7 @@ Community Repos:
 * [sorentwo/carrierwave-aws :fire::fire:](https://github.com/sorentwo/carrierwave-aws) - Adapter for CarrierWave.
 * [spring-projects/aws-maven :fire::fire:](https://github.com/spring-projects/aws-maven) -  Maven Wagon for S3.
 * [tongwang/s3fs-c :fire:](https://github.com/tongwang/s3fs-c) - Mounts buckets for use on a local file system.
-* [twpayne/s3-parallel-put :fire::fire:](https://github.com/twpayne/s3-parallel-put) - CLI that supports parallel uploads.
+* [mishudark/s3-parallel-put :fire::fire:](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
 * [waynehoover/s3_direct_upload :fire::fire::fire:](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 * [weavejester/clj-aws-s3 :fire:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
 
