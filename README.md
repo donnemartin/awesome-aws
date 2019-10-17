@@ -272,7 +272,7 @@ Related Repos:
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-sdk-ruby)
 * [Repo with S3 Sample](https://github.com/awslabs/aws-ruby-sample)
-* [Install](http://docs.aws.amazon.com/sdk-for-ruby/v2/developer-guide/setup-install.html)
+* [Install](http://docs.aws.amazon.com/sdk-for-ruby/v3/developer-guide/setup-install.html)
 * [Docs](https://aws.amazon.com/documentation/sdk-for-ruby/)
 * [Samples :fire::fire::fire::fire:](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/ruby/example_code/)
 
