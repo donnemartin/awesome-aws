@@ -91,6 +91,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [S3](#s3)
     * [SNS](#sns)
     * [SQS](#sqs)
+    * [Systems Manager](#systems-manager)
     * [Data](#data)
     * [DevOps](#devops)
     * [Security](#security)
@@ -895,6 +896,12 @@ AWS Repos:
 Community Repos:
 
 * [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
+
+### Systems Manager
+
+AWS Repos:
+* [AWS .NET Configuration Extension for Systems Manager
+](https://github.com/aws/aws-dotnet-extensions-configuration/) - Amazon.Extensions.Configuration.SystemsManager simplifies using SSM's Parameter Store as a source for configuration information for .NET Core applications
 
 ### Data
 
