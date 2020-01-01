@@ -811,7 +811,7 @@ queries. Supports revision tracking of queries and has basic visualization suppo
 
 AWS Repos:
 
-* [route53-infima :fire:](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
+* [route53-infima :fire::fire:](https://github.com/awslabs/route53-infima) - Manages service-level fault isolation.
 
 Community Repos:
 
