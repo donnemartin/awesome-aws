@@ -960,7 +960,6 @@ AWS Repos:
 * [reinvent2014-scalable-site-management](https://github.com/awslabs/reinvent2014-scalable-site-management) - Scalable site management sample from re:Invent 2014.
 * [reinvent2015-dev309](https://github.com/awslabs/reinvent2015-dev309) - Large Scale Metrics Analysis from re:Invent 2015.
 * [timely-security-analytics](https://github.com/awslabs/timely-security-analytics) - Security analytics sample from 2015 re:Invent 2015.
-* [todo-app-railsconf](https://github.com/awslabs/todo-app-railsconf) - Simple "Todo" app from RailsConf 2015.
 * [todo-sample-app](https://github.com/awslabs/todo-sample-app) - Simple "Todo" app from RailsConf 2014.
 
 Community Repos:
