@@ -898,6 +898,10 @@ Community Repos:
 
 ### Data
 
+AWS Repos:
+
+* [aws-data-wrangler :fire::fire::fire:](https://github.com/awslabs/aws-data-wrangler) - Pandas on AWS.
+
 Community Repos:
 
 * [donnemartin/data-science-ipython-notebooks :fire::fire::fire::fire::fire:](https://github.com/donnemartin/data-science-ipython-notebooks) - Big data/data science notebooks.
