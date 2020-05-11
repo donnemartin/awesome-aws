@@ -86,6 +86,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Machine Learning](#machine-learning)
     * [Mobile Analytics](#mobile-analytics)
     * [OpsWorks](#opsworks)
+    * [Quantum Ledger Database](#qldb)
     * [Redshift](#redshift)
     * [Route 53](#route-53)
     * [S3](#s3)
@@ -792,6 +793,17 @@ AWS Repos:
 Community Repos:
 
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
+
+### QLDB
+
+AWS Repos:
+
+* [amazon-qldb-sample-nodejs](https://github.com/aws-samples/amazon-qldb-dmv-sample-nodejs) - A  DMV based example application which demonstrates how to use QLDB with the QLDB Driver for Node.js
+* [amazon-qldb-sample-java](https://github.com/aws-samples/amazon-qldb-dmv-sample-java) - A  DMV based example application which demonstrates how to use QLDB with the QLDB Driver for Java
+
+Community Repos:
+
+* [Devopsinternational/qldb-essentials](https://github.com/DevOpsInternational/qldb-essentials) -  Kickstarter Development Essentials for Amazon's QLDB with REST and GraphQL API demonstration in Nodejs
 
 ### Redshift
 
