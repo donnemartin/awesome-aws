@@ -630,6 +630,7 @@ Community Repos:
 
 * [Lumoslabs/broadside](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications.
 * [Stelligent/mu :fire::fire::fire:](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
+* [Andrew-Chen-Wang/cookiecutter-django-ecs-github](https://github.com/Andrew-Chen-Wang/cookiecutter-django-ecs-github) - Complete baby walkthrough on deploying from GitHub on master push via CodeDeploy
 
 ### Elastic File System
 
