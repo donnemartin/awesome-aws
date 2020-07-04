@@ -900,7 +900,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Utility belt to handle data.
+* [aws-data-wrangler](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
 Community Repos:
 
