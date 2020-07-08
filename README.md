@@ -420,6 +420,7 @@ Community Repos:
 
 AWS Repos:
 
+* [aws-cdk :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cdk) - Framework for defining cloud infrastructure in code.
 * [aws-cfn-custom-resource-examples](https://github.com/awslabs/aws-cfn-custom-resource-examples) - Custom resource examples.
 * [aws-cfn-resource-bridge](https://github.com/aws/aws-cfn-resource-bridge) - Custom resource framework.
 * [cfn-python-lint :fire::fire::fire::fire:](https://github.com/awslabs/cfn-python-lint) - A tool for linting/validating CloudFormation.
