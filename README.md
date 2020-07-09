@@ -458,7 +458,7 @@ AWS Repos:
 Community Repos:
 
 * [AppliedTrust/traildash :fire::fire:](https://github.com/AppliedTrust/traildash) - Slick dashboard.
-* [GorillaStack/auto-tag :fire::fire:](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment
+* [GorillaStack/auto-tag :fire::fire:](https://github.com/GorillaStack/auto-tag) - Automatically tag AWS resources on creation, for cost assignment.
 
 ### CloudWatch
 
