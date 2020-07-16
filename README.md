@@ -517,7 +517,7 @@ AWS Repos:
 Community Repos:
 
 * [capeless/warrant :fire::fire:](https://github.com/capless/warrant) - Python library for using Cognito.
-* [rahulpsd18/cognito-backup-restore :fire:](https://github.com/rahulpsd18/cognito-backup-restore) - AIO Tool for backing up and restoring AWS Cognito User Pools.
+* [rahulpsd18/cognito-backup-restore :fire:](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
 
 ### Data Pipeline
 
