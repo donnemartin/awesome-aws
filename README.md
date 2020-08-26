@@ -991,7 +991,7 @@ AWS Repos:
 Community Repos:
 
 * [bcoe/thumbd :fire::fire:](https://github.com/bcoe/thumbd) - Node.js/ImageMagick-based image thumbnailing service.
-* [cdkpatterns/serverless :fire::fire:](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
+* [cdkpatterns/serverless :fire::fire::fire:](https://github.com/cdk-patterns/serverless) - Deployable serverless architecture patterns built in AWS CDK.
 * [Comcast/cmb :fire::fire:](https://github.com/Comcast/cmb) - Highly available, horizontally scalable queuing and notification service.
 * [convox/rack :fire::fire::fire::fire:](https://github.com/convox/rack) - Open-source PaaS on AWS.
 * [devops-israel/aws-inventory :fire::fire:](https://github.com/devops-israel/aws-inventory) - Display all your AWS resources on a single web page.
