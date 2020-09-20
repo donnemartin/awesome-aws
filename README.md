@@ -415,6 +415,7 @@ Community Repos:
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
 * [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
+* [aramalipoor/aws-cost-saver :fire:](https://github.com/aramalipoor/aws-cost-saver) - Save costs in development environments when you're asleep.
 
 ### CloudFormation
 
