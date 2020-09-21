@@ -906,7 +906,7 @@ Community Repos:
 
 AWS Repos:
 
-* [aws-data-wrangler :fire::fire::fire:](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
+* [aws-data-wrangler :fire::fire::fire::fire:](https://github.com/awslabs/aws-data-wrangler) - Connects Pandas DataFrames and AWS data related services.
 
 Community Repos:
 
