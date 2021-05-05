@@ -787,7 +787,7 @@ AWS Repos:
 * [opsworks-demo-php-simple-app](https://github.com/awslabs/opsworks-demo-php-simple-app) - Simple PHP app.
 * [opsworks-demo-rails-photo-share-app](https://github.com/awslabs/opsworks-demo-rails-photo-share-app) - A sample Rails app.
 * [opsworks-elasticsearch-cookbook](https://github.com/awslabs/opsworks-elasticsearch-cookbook) - Elasticsearch sample cookbook.
-* [opsworks-example-cookbooks :fire:](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
+* [opsworks-example-cookbooks ](https://github.com/awslabs/opsworks-example-cookbooks) - Cookbooks used with the sample apps.
 * [opsworks-first-cookbook](https://github.com/awslabs/opsworks-first-cookbook) - Cookbook used to demonstrate simple recipes.
 * [opsworks-windows-demo-](https://github.com/awslabs/opsworks-windows-demo-nodejs) - A sample Node.JS app.
 * [opsworks-windows-demo-cookbooks](https://github.com/awslabs/opsworks-windows-demo-cookbooks) - Cookbooks for Windows.
