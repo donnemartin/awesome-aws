@@ -901,9 +901,7 @@ AWS Repos:
 Community Repos:
 
 * [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
-
 * [yokawasan/sqs-bench](https://github.com/yokawasa/sqs-bench) - A tool that sends bulk messages in parallel to AWS SQS.
-
 
 ### Data
 
