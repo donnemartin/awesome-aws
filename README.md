@@ -374,6 +374,12 @@ Related Repos:
 * [Docs](https://aws.amazon.com/documentation/aws-toolkit-visual-studio/)
 * [Learn More](https://aws.amazon.com/visualstudio/)
 
+### Brainboard
+
+* [Install](https://www.brainboard.co)
+* [Docs](https://docs.brainboard.co)
+* [Learn More](https://www.brainboard.co)
+
 ## Open Source Repos
 
 *AWS and community open source projects, grouped by service.  See [A Note on Repo AWSomeness](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md#a-note-on-repo-awsomeness) for more details.*
