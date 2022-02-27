@@ -1,7 +1,6 @@
 language: python
 env:
-  - TOXENV=py33
-  - TOXENV=py34
+  - TOXENV=py36
 os:
   - linux
 install:
