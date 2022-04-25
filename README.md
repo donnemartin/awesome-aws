@@ -64,6 +64,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
 * [Open Source Repos](#open-source-repos)
     * [API Gateway](#api-gateway)
     * [CLI](#cli)
+    * [TUI](#tui)
     * [CloudFormation](#cloudformation)
     * [CloudSearch](#cloudsearch)
     * [CloudTrail](#cloudtrail)
@@ -415,6 +416,12 @@ Community Repos:
 * [timkay/aws :fire::fire:](https://github.com/timkay/aws) - Easy command line access to Amazon EC2, S3, SQS, ELB, and SDB.
 * [wallix/awless :fire::fire::fire::fire::fire:](https://github.com/wallix/awless) - a Powerful CLI for EC2, IAM and S3 in Go.
 * [99designs/aws-vault :fire::fire::fire::fire::fire:](https://github.com/99designs/aws-vault) - A tool for securely storing AWS credentials, written in Go.
+
+### TUI
+
+Community Repos:
+
+* [Cloud Explorer](https://github.com/teadeveloper/awscloudexplorer) - Text user interface to explore the resources and export them to CSV, Markdown, HTML and xls format.
 
 ### CloudFormation
 
