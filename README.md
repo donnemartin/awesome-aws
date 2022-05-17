@@ -1074,6 +1074,7 @@ Community Guides:
 
 * Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 * AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* AWS Cookbook [O'Reilly](https://learning.oreilly.com/library/view/aws-cookbook/9781492092599/) or [Amazon.com](https://www.amazon.com/AWS-Cookbook-Recipes-Success/dp/1492092606) - [Code Repos](https://github.com/AWSCookbook/)
 
 ### Whitepapers
 
