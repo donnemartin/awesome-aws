@@ -81,6 +81,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Elastic Search](#elastic-search)
     * [Elasticache](#elasticache)
     * [Glacier](#glacier)
+    * [Glue](#glue)
     * [Kinesis](#kinesis)
     * [Lambda](#lambda)
     * [Machine Learning](#machine-learning)
@@ -685,6 +686,12 @@ Community Repos:
 Community Repos:
 
 * [vsespb/mt-aws-glacier :fire::fire::fire:](https://github.com/vsespb/mt-aws-glacier) - Perl Multithreaded Multipart sync to Glacier.
+
+### Glue
+
+AWS Repos:
+
+* [aws-glue-samples](https://github.com/aws-samples/aws-glue-samples) - AWS Glue code samples.
 
 ### Kinesis
 
