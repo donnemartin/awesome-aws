@@ -57,7 +57,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [.NET](#net-sdk)
 * [Command Line Tools](#command-line-tools)
     * [Universal Command Line Interface](#universal-command-line-interface)
-    * [Windows PowerShell](#windows-powershell)
+    * [PowerShell](#powershell)
 * [IDE Toolkits](#ide-toolkits)
     * [Eclipse Toolkit](#eclipse-toolkit)
     * [Visual Studio Toolkit](#visual-studio-toolkit)
@@ -346,9 +346,9 @@ Related Repos:
 * [awslabs/aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell)
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws)
 
-### Windows PowerShell
+### PowerShell
 
-* [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
+* [Install](https://docs.aws.amazon.com/powershell/latest/userguide/pstools-getting-set-up.html)
 * [Docs](https://aws.amazon.com/documentation/powershell/)
 * [Learn More](https://aws.amazon.com/powershell/)
 
