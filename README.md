@@ -877,6 +877,10 @@ Community Repos:
 
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
+Community Repos:
+
+* [wolf](https://github.com/swift-nav/wolf) - Simple containerized workflows.
+
 ### SimpleDB
 
 Community Repos:
