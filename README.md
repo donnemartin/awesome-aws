@@ -334,6 +334,10 @@ Related Repos:
 </p>
 <br/>
 
+## Server Startup/Shutdown Tools
+
+* [Cloud Control](https://github.com/kxr/cloudcontrol) A simple single page dashboard application to control the sequential startup and shutdown of application environments in aws cloud.
+
 ### Universal Command Line Interface
 
 * [Repo :fire::fire::fire::fire::fire:](https://github.com/aws/aws-cli)
