@@ -60,6 +60,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Windows PowerShell](#windows-powershell)
 * [IDE Toolkits](#ide-toolkits)
     * [Eclipse Toolkit](#eclipse-toolkit)
+    * [JetBrains Toolkit](#jetbrains-toolkit)
     * [Visual Studio Toolkit](#visual-studio-toolkit)
 * [Open Source Repos](#open-source-repos)
     * [API Gateway](#api-gateway)
@@ -367,6 +368,12 @@ Related Repos:
 * [Install](http://docs.aws.amazon.com/AWSToolkitEclipse/latest/ug/tke_setup.html)
 * [Docs](https://aws.amazon.com/documentation/awstoolkiteclipse/)
 * [Learn More](https://aws.amazon.com/eclipse/)
+
+### JetBrains Toolkit
+
+* [Install](https://docs.aws.amazon.com/toolkit-for-jetbrains/latest/userguide/getting-started.html)
+* [Docs](https://docs.aws.amazon.com/toolkit-for-jetbrains/)
+* [Learn More](https://aws.amazon.com/intellij/)
 
 ### Visual Studio Toolkit
 
