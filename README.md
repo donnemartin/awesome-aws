@@ -1206,6 +1206,10 @@ Community Tweeps:
 * [@quinnypig](https://twitter.com/quinnypig)
 * [@awsgeek](https://twitter.com/awsgeek)
 
+AWS Security Tweeps:
+
+* [Keepup.so Cloud Security Twitter Lists](https://blog.keepup.so/twitterlists/cloud-security)
+
 ### Facebook Pages
 
 AWS Pages:
