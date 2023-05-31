@@ -1400,6 +1400,7 @@ Community Conferences:
 ### Databases
 
 * [Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL compatible relational database with improved performance.
+* [Databunker :fire:](https://databunker.org/) - API based secure personal data or PII storage build on top of regular db. The product comes with full GDPR compliance.
 * [DynamoDB](https://aws.amazon.com/dynamodb/) - Provides a scalable, low-latency NoSQL online Database Service backed by SSDs.
 * [ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (Memcached, Redis).
 * [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
