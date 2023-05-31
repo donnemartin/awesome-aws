@@ -86,6 +86,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Machine Learning](#machine-learning)
     * [Mobile Analytics](#mobile-analytics)
     * [OpsWorks](#opsworks)
+    * [Quantum Ledger Database](#qldb)
     * [Redshift](#redshift)
     * [Route 53](#route-53)
     * [S3](#s3)
@@ -798,6 +799,17 @@ Community Repos:
 
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
+### QLDB
+
+AWS Repos:
+
+* [amazon-qldb-sample-nodejs](https://github.com/aws-samples/amazon-qldb-dmv-sample-nodejs) - A  DMV based example application which demonstrates how to use QLDB with the QLDB Driver for Node.js
+* [amazon-qldb-sample-java](https://github.com/aws-samples/amazon-qldb-dmv-sample-java) - A  DMV based example application which demonstrates how to use QLDB with the QLDB Driver for Java
+
+Community Repos:
+
+* [Devopsinternational/qldb-essentials](https://github.com/DevOpsInternational/qldb-essentials) -  Kickstarter Development Essentials for Amazon's QLDB with REST and GraphQL API demonstration in Nodejs
+
 ### Redshift
 
 AWS Repos:
@@ -1402,6 +1414,7 @@ Community Conferences:
 * [Aurora](https://aws.amazon.com/rds/aurora/) - MySQL and PostgreSQL compatible relational database with improved performance.
 * [DynamoDB](https://aws.amazon.com/dynamodb/) - Provides a scalable, low-latency NoSQL online Database Service backed by SSDs.
 * [ElastiCache](https://aws.amazon.com/elasticache/) - Provides in-memory caching for web apps (Memcached, Redis).
+* [QLDB](https://aws.amazon.com/qldb/) - Fully managed ledger database that provides a transparent, immutable, and cryptographically verifiable transaction log. Owned by a central trusted authority.
 * [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
 * [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
 * [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - App that helps you convert your database schema from an Oracle or Microsoft SQL Server database, to an RDS MySQL DB instance or an Aurora DB cluster.
