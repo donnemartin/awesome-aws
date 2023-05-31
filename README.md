@@ -563,6 +563,7 @@ AWS Repos:
 * [dynamodb-titan-storage-backend :fire::fire:](https://github.com/awslabs/dynamodb-titan-storage-backend) - Storage Backend for Titan.
 * [dynamodb-transactions :fire::fire:](https://github.com/awslabs/dynamodb-transactions) - Performs atomic writes and isolated reads across multiple items and tables.
 * [logstash-input-dynamodb :fire:](https://github.com/awslabs/logstash-input-dynamodb) - Logstash input plugin.
+* [lucid-dynamodb](https://github.com/dineshsonachalam/lucid-dynamodb) - A minimalistic wrapper to AWS DynamoDB
 
 Community Repos:
 
