@@ -1074,6 +1074,10 @@ Community Guides:
 
 * Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 * AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* Serverless Architectures on AWS, Second Edition [Manning](https://www.manning.com/books/serverless-architectures-on-aws-second-edition)
+* AWS Security [Manning](https://www.manning.com/books/aws-security)
+* Amazon Web Services in Action, Third Edition [Manning](https://www.manning.com/books/amazon-web-services-in-action-third-edition)
+* AWS for Non-Engineers [Manning](https://www.manning.com/books/aws-for-non-engineers)
 
 ### Whitepapers
 
