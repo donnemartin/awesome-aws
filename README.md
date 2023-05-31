@@ -1074,6 +1074,7 @@ Community Guides:
 
 * Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 * AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* Serverless Machine Learning in Action with AWS and PyTorch [Manning](https://www.manning.com/books/serverless-machine-learning-in-action)
 
 ### Whitepapers
 
