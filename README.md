@@ -52,6 +52,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Ruby](#ruby-sdk)
     * [Rust](#rust-sdk)
     * [Scala](#scala-sdk)
+    * [Swift](#swift-sdk)
     * [Xamarin](#xamarin-sdk)
     * [Unity](#unity-sdk)
     * [.NET](#net-sdk)
@@ -300,6 +301,13 @@ Related Repos:
 * [seratch/AWScala :fire::fire::fire:](https://github.com/seratch/AWScala)
 
 *The Scala SDK is a labs project with limited docs and/or samples.*
+
+### Swift SDK
+
+* [Repo](https://github.com/soto-project/soto)
+* [Docs](https://soto.codes)
+
+*The Swift SDK is a community project with limited docs and/or samples.*
 
 ### Unity SDK
 
