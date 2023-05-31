@@ -305,7 +305,7 @@ Related Repos:
 
 * [Repo :fire:](https://github.com/aws/aws-sdk-unity)
 * [Repo with Samples :fire:](https://github.com/awslabs/aws-sdk-unity-samples)
-* [Install](https://s3.amazonaws.com/aws-unity-sdk/latest/aws-unity-sdk.zip)
+* [Install](https://docs.aws.amazon.com/mobile/sdkforunity/developerguide/setup-unity.html)
 * [Docs](http://docs.aws.amazon.com/mobile/sdkforunity/developerguide/)
 
 ### Xamarin SDK
@@ -1072,8 +1072,8 @@ Community Guides:
 
 ### Books
 
-* Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
-* AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+* Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](https://www.amazon.com/Amazon-Services-Action-Andreas-Wittig/dp/1617295116)
+* AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
 
 ### Whitepapers
 
@@ -1243,7 +1243,6 @@ AWS Page:
 
 Community Groups:
 
-* [Amazon AWS Architects](https://www.linkedin.com/grp/home?gid=4387417)
 * [Amazon AWS Architects, Engineers, Developers, Consultants, Entrepreneurs Experts](https://www.linkedin.com/grps?gid=3748455)
 * [Amazon Web Services (AWS) for Business](https://www.linkedin.com/grps?gid=5122002)
 * [Amazon Web Services Architects](https://www.linkedin.com/grps?gid=4233997)
@@ -1428,6 +1427,7 @@ Community Conferences:
 * [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
 * [CodePipeline](https://aws.amazon.com/documentation/codepipeline/) - Continuous delivery service.
 * [Command Line Interface (CLI)](https://aws.amazon.com/cli/) - Provides a CLI to manage all services.
+* [Logit.io](https://logit.io/) - Manage AWS logs in a centralised platform.
 * [X-Ray](https://aws.amazon.com/xray/) - Analyze and debug your applications.
 
 ### Miscellaneous Services
