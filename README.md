@@ -898,6 +898,8 @@ Community Repos:
 AWS Repos:
 
 * [amazon-sqs-java-messaging-lib :fire:](https://github.com/awslabs/amazon-sqs-java-messaging-lib) - Holds the Java Message Service to communicate with SQS.
+* [message-queue-dashboard](https://github.com/pilotpirxie/message-queue-dashboard) - GUI Dashboard for SQS and ElasticMQ with CI/CD consumer.
+
 
 Community Repos:
 
