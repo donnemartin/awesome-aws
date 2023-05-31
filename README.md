@@ -1065,7 +1065,7 @@ AWS Guides:
 * [Hosting a .NET Web App](http://docs.aws.amazon.com/gettingstarted/latest/wah/web-app-hosting-intro.html)
 * [Hosting a Static Website](http://docs.aws.amazon.com/gettingstarted/latest/swh/website-hosting-intro.html)
 * [Quick Start Deployment Guides](https://aws.amazon.com/documentation/quickstart/)
-
+* [Production-Ready Serverless](https://github.com/donnemartin/awesome-aws)
 Community Guides:
 
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
@@ -1074,6 +1074,10 @@ Community Guides:
 
 * Amazon Web Services in Action [Manning](https://www.manning.com/books/amazon-web-services-in-action) or [Amazon.com](http://amzn.com/1617292885)
 * AWS Lambda in Action [Manning](https://www.manning.com/books/aws-lambda-in-action) or [Amazon.com](http://amzn.com/1617293717) - [Code Repo :fire::fire:](https://github.com/danilop/AWS_Lambda_in_Action)
+
+### Videos
+
+* AWS Machine Learning in Motion [Manning](https://www.manning.com/livevideo/aws-machine-learning-in-motion) 
 
 ### Whitepapers
 
