@@ -1406,7 +1406,7 @@ Community Conferences:
 * [Relational Database Service (RDS)](https://aws.amazon.com/rds/) - Provides a scalable database server with MySQL, Oracle, SQL Server, PostgreSQL, and MariaDB support.
 * [Schema Conversion Tool](https://aws.amazon.com/documentation/SchemaConversionTool/) - App that helps you convert your database schema from an Oracle or Microsoft SQL Server database, to an RDS MySQL DB instance or an Aurora DB cluster.
 * [SimpleDB](https://aws.amazon.com/simpledb/) - Allows developers to run queries on structured data.
-
+* [DocumentDB](https://aws.amazon.com/documentdb/) - MongoDB compatiable document-oriented database.
 ### Application Services
 
 * [API Gateway](https://aws.amazon.com/api-gateway/) - Service for publishing, maintaining and securing web service APIs.
