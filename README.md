@@ -434,6 +434,7 @@ Community Repos:
 * [beaknit/cform :fire:](https://github.com/beaknit/cform) - SublimeText plugin.
 * [cloudreach/sceptre :fire::fire::fire::fire:](https://github.com/cloudreach/sceptre) - A CLI tool for automating CloudFormation.
 * [cloudtools/troposphere :fire::fire::fire::fire::fire:](https://github.com/cloudtools/troposphere) - Python library to create descriptions.
+* [monken/cfn-include](https://github.com/monken/cfn-include) - Preprocessor with flexible Fn::Include for CloudFormation templates.
 * [peterkh/cumulus :fire::fire:](https://github.com/peterkh/cumulus) - Manages stacks.
 * [envato/stack_master :fire::fire:](https://github.com/envato/stack_master) - A CLI tool to manage CloudFormation stacks.
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - CLI for stack management.
