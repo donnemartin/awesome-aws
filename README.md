@@ -1180,6 +1180,11 @@ Community Blogs:
 * [A Curated List of Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [AWS Geek](https://www.awsgeek.com/)
 
+### Chat
+
+Slack Channels:
+* [AWS Experts](http://awsexperts.io)
+
 ### Twitter Influencers
 
 AWS Tweeps:
