@@ -925,7 +925,7 @@ Community Repos:
 * [k1LoW/awspec :fire::fire::fire::fire:](https://github.com/k1LoW/awspec) - RSpec tests your resources.
 * [mitchellh/vagrant-aws :fire::fire::fire::fire::fire:](https://github.com/mitchellh/vagrant-aws) - Use Vagrant to manage your EC2 and VPC instances.
 * [NixOS/nixops :fire::fire::fire::fire:](https://github.com/NixOS/nixops) - Use NixOS to provision EC2 instances, S3 buckets, and other resources.
-* [someengineering/resoto :fire::fire::fire:](https://github.com/someengineering/resoto) - Find leaky resources, manage quota limits, detect drift and clean up.
+* [someengineering/resoto :fire::fire::fire::fire:](https://github.com/someengineering/resoto) - Improve visibility, control, cost, and compliance in your cloud.
 
 ### Security
 
