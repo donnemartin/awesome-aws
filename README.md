@@ -1423,6 +1423,7 @@ Community Conferences:
 
 ### Developer Tools
 
+* [awesome-cdk-typescript](https://github.com/tysoncung/awesome-cdk-typescript) - Curated list of AWS CDK TypeScript resources, libraries, patterns, and best practices.
 * [CodeBuild](https://aws.amazon.com/codebuild/) - Build and test code.
 * [CodeCommit](https://aws.amazon.com/documentation/codecommit/) - Hosted Git version control service.
 * [CodeDeploy](https://aws.amazon.com/codedeploy/) - Provides automated code deployment to EC2 instances.
