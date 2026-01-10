@@ -920,6 +920,7 @@ Community Repos:
 
 Community Repos:
 
+* [clawscli/claws :fire:](https://github.com/clawscli/claws) - A terminal UI for managing AWS resources across multiple profiles and regions with vim-style navigation.
 * [cloud-custodian/cloud-custodian :fire::fire::fire::fire::fire:](https://github.com/cloud-custodian/cloud-custodian) - Rules engine for management, DSL in yaml for query, filter, and actions on resources.
 * [chef-cookbooks/aws :fire::fire:](https://github.com/chef-cookbooks/aws) - Development repository for aws Chef cookbook.
 * [colinbjohnson/aws-missing-tools :fire::fire::fire::fire:](https://github.com/colinbjohnson/aws-missing-tools) - Tools for managing resources including EC2, EBS, RDS and Route53.
