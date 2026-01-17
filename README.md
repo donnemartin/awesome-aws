@@ -345,7 +345,8 @@ Related Repos:
 
 * [awslabs/aws-shell :fire::fire::fire::fire::fire:](https://github.com/awslabs/aws-shell)
 * [donnemartin/saws :fire::fire::fire::fire::fire:](https://github.com/donnemartin/saws)
-
+* [DrSkyle/CloudSlash :fire:](https://github.com/DrSkyle/CloudSlash)
+  
 ### Windows PowerShell
 
 * [Install](http://sdk-for-net.amazonwebservices.com/latest/AWSToolsAndSDKForNet.msi)
