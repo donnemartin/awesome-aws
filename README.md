@@ -950,6 +950,7 @@ Community Repos:
 * [salesforce/policy_sentry :fire::fire::fire::fire:](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 * [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
+* [bad-antics/nullsec-awsrecon](https://github.com/bad-antics/nullsec-awsrecon) - AWS security reconnaissance tool with IAM enumeration, S3 bucket analysis, and credential exposure detection.
 * [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
 ### Accompanying Repos
