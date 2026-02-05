@@ -518,6 +518,7 @@ Community Repos:
 
 * [capeless/warrant :fire::fire:](https://github.com/capless/warrant) - Python library for using Cognito.
 * [rahulpsd18/cognito-backup-restore :fire:](https://github.com/rahulpsd18/cognito-backup-restore) - Tool for backing up and restoring Cognito user pools.
+* [TocConsulting/cognito-api](https://github.com/TocConsulting/cognito-api) - Open-source authentication API built on Cognito with Terraform deployment.
 
 ### Data Pipeline
 
@@ -951,6 +952,9 @@ Community Repos:
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
 * [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 * [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
+* [TocConsulting/awsmap](https://github.com/TocConsulting/awsmap) - Fast, comprehensive tool for mapping and inventorying AWS resources across 140+ services and all regions.
+* [TocConsulting/iam-activity-tracker](https://github.com/TocConsulting/iam-activity-tracker) - Serverless solution for tracking IAM, STS, and Console sign-in activities across all regions.
+* [TocConsulting/s3-security-scanner](https://github.com/TocConsulting/s3-security-scanner) - Comprehensive S3 security scanner that analyzes bucket configurations and access controls.
 
 ### Accompanying Repos
 
