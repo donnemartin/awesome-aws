@@ -439,6 +439,7 @@ Community Repos:
 * [sparkleformation/sfn](https://github.com/sparkleformation/sfn) - CLI for stack management.
 * [sparkleformation/sparkle_formation :fire::fire:](https://github.com/sparkleformation/sparkle_formation) - Ruby DSL for template creation.
 * [Stelligent/cfn_nag :fire::fire::fire::fire:](https://github.com/stelligent/cfn_nag) - Linting tool for CloudFormation templates
+* [trupositive](https://github.com/trupositive-ai/trupositive) - Automatically tag AWS CloudFormation stacks with Git commit SHA, branch, and repository. Zero configuration.
 
 ### CloudSearch
 
