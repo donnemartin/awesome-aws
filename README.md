@@ -864,6 +864,7 @@ Community Repos:
 
 * [drewblas/aws-ses :fire::fire::fire:](https://github.com/drewblas/aws-ses) - Provides an easy ruby DSL & interface.
 * [microapps/MoonMail :fire::fire::fire::fire:](https://github.com/microapps/MoonMail) - Shoot billions of emails using SES and Lambda.
+* [wraps-team/wraps-js](https://github.com/wraps-team/wraps-js) - TypeScript SDK for sending email through SES with React Email support and template management.
 
 ### Simple Workflow
 
