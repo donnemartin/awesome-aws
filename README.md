@@ -857,6 +857,7 @@ Community Repos:
 * [mishudark/s3-parallel-put :fire::fire:](https://github.com/mishudark/s3-parallel-put) - CLI that supports parallel uploads.
 * [waynehoover/s3_direct_upload :fire::fire::fire:](https://github.com/waynehoover/s3_direct_upload) - Direct Upload to Amazon S3 With CORS
 * [weavejester/clj-aws-s3 :fire:](https://github.com/weavejester/clj-aws-s3) - Client library for Clojure.
+* [awesome-object-storage](https://github.com/mixpeek/awesome-object-storage) - Comprehensive comparison of S3-compatible object storage providers with pricing, gotchas, and migration costs.
 
 ### SES
 
