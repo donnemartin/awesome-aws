@@ -10,6 +10,7 @@ A curated list of awesome AWS libraries, open source repos, guides, blogs, and o
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for AWS cloud orchestration, automated infrastructure management, and multi-agent coordination. MIT licensed.
 ## The Fiery Meter of AWSome
 
 * Repo with 0100+ Stars: :fire:
