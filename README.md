@@ -1137,6 +1137,8 @@ Community Guides:
 * [Yelp](https://aws.amazon.com/solutions/case-studies/yelp-docker/)
 * [Zillow](https://aws.amazon.com/solutions/case-studies/zillow/)
 
+* [RemoteOpenClaw](https://remoteopenclaw.com) - Open marketplace for AI skills and personas built on OpenClaw.
+
 ## Social
 
 *Blogs, discussion groups, conferences, and social media.*
