@@ -1069,6 +1069,7 @@ AWS Guides:
 Community Guides:
 
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
+* [CloudNugget - Free AWS Certified Developer Associate Course](https://cloudnugget.dev)
 
 ### Books
 
