@@ -60,6 +60,7 @@ Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issue
     * [Windows PowerShell](#windows-powershell)
 * [IDE Toolkits](#ide-toolkits)
     * [Eclipse Toolkit](#eclipse-toolkit)
+- [awscli-local](https://github.com/localstack/awscli-local) - A thin wrapper around the AWS CLI for use with LocalStack.
     * [Visual Studio Toolkit](#visual-studio-toolkit)
 * [Open Source Repos](#open-source-repos)
     * [API Gateway](#api-gateway)
