@@ -1342,6 +1342,7 @@ Community Conferences:
 * [Kinesis Firehose](https://aws.amazon.com/kinesis/firehose/) - Captures and automatically loads streaming data into S3 and Redshift.
 * [Quicksight](https://aws.amazon.com/quicksight/) - Provides cloud-powered business intelligence for 1/10th the cost of traditional BI solutions.
 * [Redshift](https://aws.amazon.com/redshift/) - Provides petabyte-scale data warehousing with columnar storage and multi-node compute.
+* [search-keyword-performance-revenue](https://github.com/naveenayalla1-CS50/search-keyword-performance-revenue) - PySpark ETL pipeline analyzing web analytics search keyword revenue using AWS Glue and S3.
 
 ### Artificial Intelligence
 
