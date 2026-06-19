@@ -902,6 +902,7 @@ AWS Repos:
 Community Repos:
 
 * [phstc/shoryuken :fire::fire::fire::fire:](https://github.com/phstc/shoryuken) - A super efficient SQS thread based message processor for Ruby.
+* [sousadiego11/easyqueue](https://github.com/sousadiego11/easyqueue) - Provider-agnostic desktop GUI for inspecting, publishing, and debugging queue messages; ships with SQS and RabbitMQ support today, with Azure Service Bus and Google Pub/Sub on the roadmap.
 
 ### Data
 
