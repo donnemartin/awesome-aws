@@ -527,6 +527,7 @@ AWS Repos:
 
 Community Repos:
 
+* [andreivince/aws-real-time-pipeline](https://github.com/andreivince/aws-real-time-pipeline) - Serverless market data ingestion pipeline with CDK, DynamoDB Streams, SQS fan-out, and reproducible load-test metrics.
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### Device Farm
