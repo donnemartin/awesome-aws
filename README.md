@@ -629,11 +629,15 @@ AWS Repos:
 * [lambda-ecs-worker-pattern :fire::fire:](https://github.com/awslabs/lambda-ecs-worker-pattern) - Extends Lambda using SQS and ECS.
 * [py-flask-signup-docker](https://github.com/awslabs/py-flask-signup-docker) - Python sample app.
 * [service-discovery-ecs-consul :fire:](https://github.com/awslabs/service-discovery-ecs-consul) - Assets from the blog Service Discovery via Consul with Amazon ECS.
+* [ecs-doctor](https://github.com/PraveenLuke/ecs-doctor) - CLI that diagnoses why an ECS service is failing — events, logs, ALB health, metrics, config, and network in a single confidence-scored report.
+
 
 Community Repos:
 
 * [Lumoslabs/broadside](https://github.com/lumoslabs/broadside) - Command line tool for deploying revisions of containerized applications.
 * [Stelligent/mu :fire::fire::fire:](https://github.com/stelligent/mu) - Command line tool to simplify ECS deployments via CodeBuild and CodePipeline.
+* [ecs-doctor](https://github.com/PraveenLuke/ecs-doctor) - One-command CLI to diagnose why an ECS service is failing. Runs 7 parallel checks (events, stop reasons, CloudWatch Logs, ALB health, metrics, task config, network) and returns a confidence-scored root cause with a suggested fix.
+
 
 ### Elastic File System
 
