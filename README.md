@@ -949,7 +949,7 @@ Community Repos:
 * [RiotGames/cloud-inquisitor :fire::fire:](https://github.com/RiotGames/cloud-inquisitor) - Tool to enforce ownership and data security.
 * [salesforce/policy_sentry :fire::fire::fire::fire:](https://github.com/salesforce/policy_sentry/) - IAM Least Privilege Policy Generator.
 * [sebsto/AWSVPN :fire:](https://github.com/sebsto/AWSVPN) - Start a private VPN server in the cloud.
-* [shieldly-io](https://www.shieldly.io) - AI-Powered security analysis for AWS IAM policies, CloudFormation templates, and costs. Catches over-privilege, privilege escalation paths, and trust policy misconfigurations. CLI, VS Code extension, and GitHub Action included.
+* [shieldly-io](https://www.shieldly.io) - AI-Powered security analysis for AWS IAM policies, CloudFormation templates, AI agent AWS permissions (blast radius), and costs. Catches over-privilege, privilege escalation paths, and trust policy misconfigurations. CLI, VS Code extension, GitHub Action, and CDK Guard included.
 * [trailofbits/algo :fire::fire::fire::fire::fire:](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN on EC2 and other cloud services.
 * [ttlequals0/autovpn :fire::fire::fire::fire:](https://github.com/ttlequals0/autovpn) - Create On Demand Disposable OpenVPN Endpoints.
 
