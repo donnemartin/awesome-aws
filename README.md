@@ -1067,6 +1067,7 @@ AWS Guides:
 * [Quick Start Deployment Guides](https://aws.amazon.com/documentation/quickstart/)
 
 Community Guides:
+* [Agentic AI : a curated index of the 10-part Foundations to Economics series + frameworks + patterns](https://github.com/amartinawi/awesome-aws-agentic-ai).
 
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
 
