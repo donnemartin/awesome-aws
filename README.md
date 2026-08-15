@@ -567,6 +567,8 @@ AWS Repos:
 Community Repos:
 
 * [channl/dynamodb-lambda-autoscale :fire::fire:](https://github.com/channl/dynamodb-lambda-autoscale) - Autoscale DynamoDB provisioned capacity using Lambda.
+* [dynotable/dynamodb-partiql-parser](https://github.com/dynotable/dynamodb-partiql-parser) - PartiQL parser and linter for DynamoDB in TypeScript, zero dependencies.
+* [dynotable/dynamodb-reserved-words](https://github.com/dynotable/dynamodb-reserved-words) - Complete DynamoDB reserved-words list with ExpressionAttributeNames helpers.
 * [lyft/confidant :fire::fire::fire::fire:](https://github.com/lyft/confidant) - Stores secrets, encrypted at rest.
 * [sebdah/dynamic-dynamodb :fire::fire::fire:](https://github.com/sebdah/dynamic-dynamodb) - Provides auto-scaling.
 * [sensedeep/dynamodb-onetable :fire::fire::fire:](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB library for single table designs using NodeJS.
