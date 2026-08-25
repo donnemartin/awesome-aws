@@ -942,6 +942,7 @@ Community Repos:
 * [alex/letsencrypt-aws :fire::fire::fire:](https://github.com/alex/letsencrypt-aws) - Automatically provision and update certificates.
 * [bridgecrewio/checkov :fire::fire::fire::fire::fire:](https://github.com/bridgecrewio/checkov) - Terraform static analysis, verifies security best practices.
 * [cloudsploit/scans :fire::fire::fire::fire:](https://github.com/cloudsploit/scans) - Detects security risks.
+* [fabiocicerchia/iam-shrink](https://github.com/fabiocicerchia/iam-shrink) - AWS IAM least-privilege advisor: analyses CloudTrail usage and generates minimal replacement policies.
 * [iSECPartners/Scout2 :fire::fire::fire::fire:](https://github.com/iSECPartners/Scout2) - Security auditing tool.
 * [jordanpotti/AWSBucketDump :fire::fire::fire::fire:](https://github.com/jordanpotti/AWSBucketDump) - Security Tool to Look For Interesting Files in S3 Buckets.
 * [Netflix/bless :fire::fire::fire::fire::fire:](https://github.com/Netflix/bless) - SSH Certificate Authority that runs as a Lambda function.
