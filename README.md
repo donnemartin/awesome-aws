@@ -837,6 +837,7 @@ Community Repos:
 * [littlstar/s3renity :fire::fire::fire::fire:](https://github.com/littlstar/s3renity) - Batch functions with concurrency control (each, map, reduce, filter, join)
 * [marcel/aws-s3 :fire::fire::fire:](https://github.com/marcel/aws-s3) - Ruby implementation of Amazon's S3 REST API.
 * [mardix/flask-cloudy :fire::fire:](https://github.com/mardix/flask-cloudy) - Flask extension.
+* [mathematic-inc/bucket-cache-action](https://github.com/mathematic-inc/bucket-cache-action) - GitHub Actions caching with native OIDC and automatic post-job saves.
 * [MathieuLoutre/grunt-aws-s3 :fire::fire:](https://github.com/MathieuLoutre/grunt-aws-s3) - Grunt plugin.
 * [mickael-kerjean/filestash :fire::fire::fire::fire::fire:](https://github.com/mickael-kerjean/filestash) - A modern web client for S3.
 * [minio/mc :fire::fire::fire::fire::fire:](https://github.com/minio/mc) -  Minio Client for filesystem and cloud storage.
