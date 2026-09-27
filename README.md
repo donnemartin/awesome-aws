@@ -1052,6 +1052,7 @@ AWS Guides:
 
 Community Guides:
 
+* [Cloud Dojo](https://github.com/nabil0x/cloud-dojo) - Gamified Docker and AWS course with local emulators, quests, and XP.
 * [Contribute](https://github.com/donnemartin/awesome-aws/blob/master/CONTRIBUTING.md)
 
 ### General Guides
