@@ -1024,6 +1024,7 @@ Community Repos:
 * [snowplow/snowplow :fire::fire::fire::fire::fire:](https://github.com/snowplow/snowplow) - Enterprise-strength web, mobile and event analytics, powered by Hadoop, Kafka, Kinesis, Redshift and Elasticsearch.
 * [Spinnaker/spinnaker :fire::fire::fire::fire::fire:](https://github.com/Spinnaker/spinnaker) - Successor to asgard supporting pipelines and more.
 * [spulec/moto :fire::fire::fire::fire::fire:](https://github.com/spulec/moto) - Allows your python tests to easily mock out the boto library.
+* [towardsthecloud/cloudburn :fire::fire::fire::fire:](https://github.com/towardsthecloud/cloudburn) - CLI that checks Terraform, CloudFormation, and live resources for costly configurations.
 
 ## Guides, Books, Documentation, and Training
 
