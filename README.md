@@ -1093,6 +1093,7 @@ Community Guides:
 
 * [Training and Certification](https://aws.amazon.com/training/)
 * [Webinars](https://aws.amazon.com/about-aws/events/)
+* [Cloudoku AWS Certification Cheat Sheets](https://cloudoku.training/cheatsheets) - Quick-reference summaries for VPC, S3, EC2, IAM, and serverless services.
 
 ### Case Studies: Powered by AWS
 
