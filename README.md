@@ -1068,6 +1068,7 @@ AWS Guides:
 
 Community Guides:
 
+* [Cloud & SRE Exam Arena](https://fabianimv.github.io/exam-arena/) - Free, open-source scenario simulator with SAA-C03 practice questions and per-option diagnostic feedback.
 * [Open Guide to AWS :fire::fire::fire::fire::fire:](https://github.com/open-guides/og-aws)
 
 ### Books
