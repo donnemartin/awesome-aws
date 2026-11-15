@@ -34,6 +34,8 @@ Review the [Contributing Guidelines](https://github.com/donnemartin/awesome-aws/
 
 Also check out the [Watch List](https://github.com/donnemartin/awesome-aws/issues/34).
 
+* [No Stairs Please](https://nostairsplease.com/) — live-music venue directory and MCP server (`https://nostairsplease.com/mcp`) for touring musicians.
+
 ## Index
 
 * [SDKs and Samples](#sdks-and-samples)
